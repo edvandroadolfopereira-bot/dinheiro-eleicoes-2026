@@ -1,6 +1,6 @@
 # Legendas prontas para a postagem
 
-Extracao do TSE: 2026-09-19 18:22:23 | Publicado em: 19/09/2026 as 20:48 | Autoria: EDVANDRO ADOLFO PEREIRA
+Extracao do TSE: 2026-09-19 21:18:00 | Publicado em: 19/09/2026 as 21:45 | Autoria: EDVANDRO ADOLFO PEREIRA
 
 ## Legenda do carrossel
 
@@ -22,12 +22,12 @@ Os 100 maiores fornecedores ficam com R$ 598,3 mi, ou
 16,44% de tudo que foi contratado.
 
 Fonte: Tribunal Superior Eleitoral, dados abertos das Eleicoes Gerais de 2026, extracao de
-2026-09-19 18:22:23. A prestacao de contas e parcial e muda todo dia.
+2026-09-19 21:18:00. A prestacao de contas e parcial e muda todo dia.
 
 Dados completos para baixar: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
 Levantamento, apuracao e organizacao: EDVANDRO ADOLFO PEREIRA, perito judicial contabil.
-Publicado em 19/09/2026 as 20:48. @edvandroadolfo | @gruponomos
+Publicado em 19/09/2026 as 21:45. @edvandroadolfo | @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE
 #jornalismodedados #fiscalizacao #democracia #dinheiropublico
