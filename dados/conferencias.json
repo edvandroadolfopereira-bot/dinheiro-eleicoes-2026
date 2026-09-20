@@ -43,9 +43,9 @@
  "fornecedores_com_mais_de_um_municipio": 0,
  "fornecedores_distintos": 424833,
  "cnpj_consultados_nesta_rodada": 2000,
- "cnpj_em_cache": 2085,
+ "cnpj_em_cache": 4085,
  "fornecedores_pj": 46192,
- "fornecedores_pj_sem_localizacao": 43379,
+ "fornecedores_pj_sem_localizacao": 41437,
  "cnpj_rodada_interrompida_por_429": false,
  "fornecedores_com_documento_invalido": 1008,
  "Fundo Especial de Financiamento de Campanha | CANDIDATOS | pago total": 1779406409.12,
@@ -57,8 +57,10 @@
  "Fundo Partidário | PARTIDOS | pago total": 417477887.97,
  "Fundo Partidário | PARTIDOS | transferido a outros prestadores": 373913357.68,
  "votacao_linhas": 0,
- "gerado_em": "2026-09-19 18:22:23",
+ "gerado_em": "2026-09-19 21:18:00",
  "soma_receitas_candidatos_confere": true,
  "pago_por_fornecedor_confere": true,
- "receitas_de_sq_fora_do_cadastro": 0.0
+ "receitas_de_sq_fora_do_cadastro": -0.0,
+ "colunas_da_ordem_do_usuario_ausentes": [],
+ "colunas_novas_fora_da_ordem_do_usuario": []
 }
