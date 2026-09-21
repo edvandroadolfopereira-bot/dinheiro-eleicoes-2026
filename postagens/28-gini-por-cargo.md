@@ -2,24 +2,24 @@
 
 ## Instagram, legenda do post
 
-O cargo com dinheiro mais concentrado é deputado distrital, com Gini de 0,7163.
+O cargo com dinheiro mais concentrado é deputado distrital, com Gini de 0,7141.
 
 Calculei o índice de Gini separadamente dentro de cada cargo, entre os candidatos que já declararam receita.
 
-Deputado Distrital: Gini 0,7163, com 57,38% do dinheiro nos 10% do topo.
-Deputado Federal: Gini 0,7061, com 51,54% do dinheiro nos 10% do topo.
-Governador: Gini 0,6726, com 43,22% do dinheiro nos 10% do topo.
-Deputado Estadual: Gini 0,6639, com 47,18% do dinheiro nos 10% do topo.
-Senador: Gini 0,5635, com 28,39% do dinheiro nos 10% do topo.
+Deputado Distrital: Gini 0,7141, com 56,97% do dinheiro nos 10% do topo.
+Deputado Federal: Gini 0,7066, com 51,58% do dinheiro nos 10% do topo.
+Governador: Gini 0,6729, com 43,05% do dinheiro nos 10% do topo.
+Deputado Estadual: Gini 0,6636, com 47,07% do dinheiro nos 10% do topo.
+Senador: Gini 0,5667, com 28,35% do dinheiro nos 10% do topo.
 
 Quanto mais perto de um, mais o dinheiro daquela disputa está em poucas mãos.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-19 21:18:00. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-21 08:48:12. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 19/09/2026 às 21:57.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/09/2026 às 09:17.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE #jornalismodedados #periciacontabil #fiscalizacao #democracia
@@ -38,25 +38,25 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-O cargo com dinheiro mais concentrado é deputado distrital, com Gini de 0,7163.
+O cargo com dinheiro mais concentrado é deputado distrital, com Gini de 0,7141.
 
 Calculei o índice de Gini separadamente dentro de cada cargo, entre os candidatos que já declararam receita.
 
-Deputado Distrital: Gini 0,7163, com 57,38% do dinheiro nos 10% do topo.
-Deputado Federal: Gini 0,7061, com 51,54% do dinheiro nos 10% do topo.
-Governador: Gini 0,6726, com 43,22% do dinheiro nos 10% do topo.
-Deputado Estadual: Gini 0,6639, com 47,18% do dinheiro nos 10% do topo.
-Senador: Gini 0,5635, com 28,39% do dinheiro nos 10% do topo.
+Deputado Distrital: Gini 0,7141, com 56,97% do dinheiro nos 10% do topo.
+Deputado Federal: Gini 0,7066, com 51,58% do dinheiro nos 10% do topo.
+Governador: Gini 0,6729, com 43,05% do dinheiro nos 10% do topo.
+Deputado Estadual: Gini 0,6636, com 47,07% do dinheiro nos 10% do topo.
+Senador: Gini 0,5667, com 28,35% do dinheiro nos 10% do topo.
 
 Quanto mais perto de um, mais o dinheiro daquela disputa está em poucas mãos.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-19 21:18:00. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 19/09/2026 às 21:57.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-21 08:48:12. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/09/2026 às 09:17.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-O cargo com dinheiro mais concentrado é deputado distrital, com Gini de 0,7163.
+O cargo com dinheiro mais concentrado é deputado distrital, com Gini de 0,7141.
 Veja em qual cargo o dinheiro de campanha é mais concentrado.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)

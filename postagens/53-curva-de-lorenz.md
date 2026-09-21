@@ -8,14 +8,14 @@ Esta é a curva de Lorenz da receita de campanha. No eixo de baixo, os candidato
 
 A reta seria a divisão perfeitamente igual. A área entre a reta e a curva é a desigualdade, e o índice de Gini a resume em um número: 0,7575.
 
-O 1% que mais arrecada fica com 16,86% do dinheiro, e 983 candidatos concentram metade de tudo.
+O 1% que mais arrecada fica com 16,85% do dinheiro, e 987 candidatos concentram metade de tudo.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-19 21:18:00. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-21 08:48:12. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 19/09/2026 às 21:57.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/09/2026 às 09:17.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE #jornalismodedados #periciacontabil #fiscalizacao #democracia
@@ -40,11 +40,11 @@ Esta é a curva de Lorenz da receita de campanha. No eixo de baixo, os candidato
 
 A reta seria a divisão perfeitamente igual. A área entre a reta e a curva é a desigualdade, e o índice de Gini a resume em um número: 0,7575.
 
-O 1% que mais arrecada fica com 16,86% do dinheiro, e 983 candidatos concentram metade de tudo.
+O 1% que mais arrecada fica com 16,85% do dinheiro, e 987 candidatos concentram metade de tudo.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-19 21:18:00. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 19/09/2026 às 21:57.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-21 08:48:12. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/09/2026 às 09:17.
 
 ## WhatsApp, mensagem curta para grupos e status
 

@@ -2,25 +2,25 @@
 
 ## Instagram, legenda do post
 
-SP movimenta R$ 810,6 mi, ou 14,3139% de todo o dinheiro declarado no país.
+SP movimenta R$ 814,5 mi, ou 14,2938% de todo o dinheiro declarado no país.
 
 Somei tudo que entrou nas campanhas de cada unidade da federação: recurso do próprio candidato, fundo eleitoral, Fundo Partidário, doação de pessoa física, financiamento coletivo e repasse de partido e de outros candidatos.
 
-1º SP: R$ 810,6 mi, sendo 89,12% de dinheiro público.
-2º MG: R$ 465,6 mi, sendo 83,49% de dinheiro público.
-3º RJ: R$ 452,2 mi, sendo 92,52% de dinheiro público.
-4º BA: R$ 313,1 mi, sendo 92,19% de dinheiro público.
-5º PR: R$ 288,4 mi, sendo 85,79% de dinheiro público.
-6º RS: R$ 287,8 mi, sendo 88,63% de dinheiro público.
+1º SP: R$ 814,5 mi, sendo 88,86% de dinheiro público.
+2º MG: R$ 466,9 mi, sendo 83,35% de dinheiro público.
+3º RJ: R$ 455,1 mi, sendo 92,45% de dinheiro público.
+4º BA: R$ 314,6 mi, sendo 91,94% de dinheiro público.
+5º PR: R$ 292,8 mi, sendo 85,52% de dinheiro público.
+6º RS: R$ 289,4 mi, sendo 88,33% de dinheiro público.
 
 As parcelas por origem fecham com o total ao centavo, o que foi conferido contra o arquivo original do TSE. Este ranking mede dinheiro de campanha, e não riqueza do estado: unidade com mais candidatos e mais eleitores recebe mais por construção.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-19 21:18:00. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-21 08:48:12. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 19/09/2026 às 22:14.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/09/2026 às 09:17.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE #jornalismodedados #periciacontabil #fiscalizacao #democracia
@@ -39,26 +39,26 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-SP movimenta R$ 810,6 mi, ou 14,3139% de todo o dinheiro declarado no país.
+SP movimenta R$ 814,5 mi, ou 14,2938% de todo o dinheiro declarado no país.
 
 Somei tudo que entrou nas campanhas de cada unidade da federação: recurso do próprio candidato, fundo eleitoral, Fundo Partidário, doação de pessoa física, financiamento coletivo e repasse de partido e de outros candidatos.
 
-1º SP: R$ 810,6 mi, sendo 89,12% de dinheiro público.
-2º MG: R$ 465,6 mi, sendo 83,49% de dinheiro público.
-3º RJ: R$ 452,2 mi, sendo 92,52% de dinheiro público.
-4º BA: R$ 313,1 mi, sendo 92,19% de dinheiro público.
-5º PR: R$ 288,4 mi, sendo 85,79% de dinheiro público.
-6º RS: R$ 287,8 mi, sendo 88,63% de dinheiro público.
+1º SP: R$ 814,5 mi, sendo 88,86% de dinheiro público.
+2º MG: R$ 466,9 mi, sendo 83,35% de dinheiro público.
+3º RJ: R$ 455,1 mi, sendo 92,45% de dinheiro público.
+4º BA: R$ 314,6 mi, sendo 91,94% de dinheiro público.
+5º PR: R$ 292,8 mi, sendo 85,52% de dinheiro público.
+6º RS: R$ 289,4 mi, sendo 88,33% de dinheiro público.
 
 As parcelas por origem fecham com o total ao centavo, o que foi conferido contra o arquivo original do TSE. Este ranking mede dinheiro de campanha, e não riqueza do estado: unidade com mais candidatos e mais eleitores recebe mais por construção.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-19 21:18:00. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 19/09/2026 às 22:14.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-21 08:48:12. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/09/2026 às 09:17.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-SP movimenta R$ 810,6 mi, ou 14,3139% de todo o dinheiro declarado no país.
+SP movimenta R$ 814,5 mi, ou 14,2938% de todo o dinheiro declarado no país.
 O ranking das unidades da federação que mais movimentam dinheiro nestas eleições.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)

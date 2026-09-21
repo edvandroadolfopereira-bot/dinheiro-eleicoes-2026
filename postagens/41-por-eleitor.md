@@ -2,22 +2,22 @@
 
 ## Instagram, legenda do post
 
-São R$ 35,88 de campanha por eleitor apto no Brasil.
+São R$ 36,10 de campanha por eleitor apto no Brasil.
 
 Habitante não vota. O denominador que mede peso eleitoral é o eleitor, e ele acaba de entrar na base.
 
 O país tem 157.846.547 eleitores aptos nas 27 unidades da federação, mais 918.911 no exterior. Isso é 73,69% da população.
 
-Dividindo a receita declarada por esse eleitorado, dá R$ 35,88 por eleitor, dos quais R$ 31,83 de dinheiro público.
+Dividindo a receita declarada por esse eleitorado, dá R$ 36,10 por eleitor, dos quais R$ 31,95 de dinheiro público.
 
 Os estados onde cada voto custa mais caro:
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-19 21:18:00. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-21 08:48:12. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 19/09/2026 às 21:57.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/09/2026 às 09:17.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE #jornalismodedados #periciacontabil #fiscalizacao #democracia
@@ -36,23 +36,23 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-São R$ 35,88 de campanha por eleitor apto no Brasil.
+São R$ 36,10 de campanha por eleitor apto no Brasil.
 
 Habitante não vota. O denominador que mede peso eleitoral é o eleitor, e ele acaba de entrar na base.
 
 O país tem 157.846.547 eleitores aptos nas 27 unidades da federação, mais 918.911 no exterior. Isso é 73,69% da população.
 
-Dividindo a receita declarada por esse eleitorado, dá R$ 35,88 por eleitor, dos quais R$ 31,83 de dinheiro público.
+Dividindo a receita declarada por esse eleitorado, dá R$ 36,10 por eleitor, dos quais R$ 31,95 de dinheiro público.
 
 Os estados onde cada voto custa mais caro:
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-19 21:18:00. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 19/09/2026 às 21:57.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-21 08:48:12. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/09/2026 às 09:17.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-São R$ 35,88 de campanha por eleitor apto no Brasil.
-R$ 35,88 de campanha por eleitor. Veja o seu estado.
+São R$ 36,10 de campanha por eleitor apto no Brasil.
+R$ 36,10 de campanha por eleitor. Veja o seu estado.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)

@@ -7,20 +7,20 @@ Em RR, o dinheiro público de campanha equivale a 10,75% do que o estado já liq
 A mesma conta, agora estado por estado, contra a despesa liquidada em saúde pelo próprio governo estadual.
 
 RR: 10,75%.
-AP: 10,64%.
-RO: 10,5%.
-RJ: 8,71%.
-AC: 8,57%.
-MS: 7,82%.
+AP: 10,65%.
+RO: 10,55%.
+AC: 8,89%.
+RJ: 8,76%.
+MS: 7,85%.
 
 No topo aparecem as unidades de menor população, onde o rateio por estado pesa mais sobre um orçamento menor. Continua sendo comparação de grandeza, e não transferência entre uma coisa e outra.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-19 21:18:00. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-21 08:48:12. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 19/09/2026 às 21:57.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/09/2026 às 09:17.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE #jornalismodedados #periciacontabil #fiscalizacao #democracia
@@ -44,17 +44,17 @@ Em RR, o dinheiro público de campanha equivale a 10,75% do que o estado já liq
 A mesma conta, agora estado por estado, contra a despesa liquidada em saúde pelo próprio governo estadual.
 
 RR: 10,75%.
-AP: 10,64%.
-RO: 10,5%.
-RJ: 8,71%.
-AC: 8,57%.
-MS: 7,82%.
+AP: 10,65%.
+RO: 10,55%.
+AC: 8,89%.
+RJ: 8,76%.
+MS: 7,85%.
 
 No topo aparecem as unidades de menor população, onde o rateio por estado pesa mais sobre um orçamento menor. Continua sendo comparação de grandeza, e não transferência entre uma coisa e outra.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-19 21:18:00. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 19/09/2026 às 21:57.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-21 08:48:12. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/09/2026 às 09:17.
 
 ## WhatsApp, mensagem curta para grupos e status
 

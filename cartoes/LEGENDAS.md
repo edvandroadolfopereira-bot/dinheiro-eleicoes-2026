@@ -1,33 +1,33 @@
 # Legendas prontas para a postagem
 
-Extracao do TSE: 2026-09-19 21:18:00 | Publicado em: 19/09/2026 as 21:45 | Autoria: EDVANDRO ADOLFO PEREIRA
+Extracao do TSE: 2026-09-21 08:48:12 | Publicado em: 21/09/2026 as 09:17 | Autoria: EDVANDRO ADOLFO PEREIRA
 
 ## Legenda do carrossel
 
 O DINHEIRO DAS ELEICOES 2026 E QUEM SAO OS SEUS BENEFICIARIOS
 Pela visao de um perito judicial contabil
 
-De cada R$ 100 que entraram nas campanhas deste ano, R$ 88,71 sairam do
+De cada R$ 100 que entraram nas campanhas deste ano, R$ 88,50 sairam do
 bolso do contribuinte. Veja quem recebe.
 
-As campanhas declararam R$ 5.662.847.203,74 de receita ate 2026-09-19.
-Desse total, R$ 5,02 bi (88,71%) e dinheiro publico: FEFC
-R$ 4,64 bi (81,94%) mais Fundo Partidario R$ 383,4 mi
-(6,77%).
+As campanhas declararam R$ 5.698.171.271,64 de receita ate 2026-09-20.
+Desse total, R$ 5,04 bi (88,50%) e dinheiro publico: FEFC
+R$ 4,65 bi (81,62%) mais Fundo Partidario R$ 392,0 mi
+(6,88%).
 
-Doacao de pessoa fisica: R$ 358,2 mi (6,33%).
-Recurso do proprio candidato: R$ 94,4 mi (1,67%).
+Doacao de pessoa fisica: R$ 365,6 mi (6,42%).
+Recurso do proprio candidato: R$ 95,5 mi (1,68%).
 
-Os 100 maiores fornecedores ficam com R$ 598,3 mi, ou
-16,44% de tudo que foi contratado.
+Os 100 maiores fornecedores ficam com R$ 602,9 mi, ou
+16,50% de tudo que foi contratado.
 
 Fonte: Tribunal Superior Eleitoral, dados abertos das Eleicoes Gerais de 2026, extracao de
-2026-09-19 21:18:00. A prestacao de contas e parcial e muda todo dia.
+2026-09-21 08:48:12. A prestacao de contas e parcial e muda todo dia.
 
 Dados completos para baixar: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
 Levantamento, apuracao e organizacao: EDVANDRO ADOLFO PEREIRA, perito judicial contabil.
-Publicado em 19/09/2026 as 21:45. @edvandroadolfo | @gruponomos
+Publicado em 21/09/2026 as 09:17. @edvandroadolfo | @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE
 #jornalismodedados #fiscalizacao #democracia #dinheiropublico
