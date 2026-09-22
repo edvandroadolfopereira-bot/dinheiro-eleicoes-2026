@@ -15,7 +15,7 @@ Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-2
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 22/09/2026 às 09:51.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 22/09/2026 às 17:02.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE #jornalismodedados #periciacontabil #fiscalizacao #democracia
@@ -44,7 +44,7 @@ Isto não afirma que a verba deixou de ir para saúde ou educação: são dotaç
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-22 09:19:31. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 22/09/2026 às 09:51.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-22 09:19:31. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 22/09/2026 às 17:02.
 
 ## WhatsApp, mensagem curta para grupos e status
 
