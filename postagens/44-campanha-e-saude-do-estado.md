@@ -2,25 +2,25 @@
 
 ## Instagram, legenda do post
 
-Em RR, o dinheiro público de campanha equivale a 10,75% do que o estado já liquidou em saúde.
+Em RR, o dinheiro público de campanha equivale a 10,8% do que o estado já liquidou em saúde.
 
 A mesma conta, agora estado por estado, contra a despesa liquidada em saúde pelo próprio governo estadual.
 
-RR: 10,75%.
+RR: 10,8%.
+RO: 10,79%.
 AP: 10,65%.
-RO: 10,55%.
-AC: 8,89%.
-RJ: 8,76%.
-MS: 7,85%.
+AC: 9,0%.
+RJ: 8,85%.
+MS: 7,89%.
 
 No topo aparecem as unidades de menor população, onde o rateio por estado pesa mais sobre um orçamento menor. Continua sendo comparação de grandeza, e não transferência entre uma coisa e outra.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-21 21:19:15. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-22 09:19:31. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/09/2026 às 21:51.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 22/09/2026 às 09:51.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE #jornalismodedados #periciacontabil #fiscalizacao #democracia
@@ -39,26 +39,26 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-Em RR, o dinheiro público de campanha equivale a 10,75% do que o estado já liquidou em saúde.
+Em RR, o dinheiro público de campanha equivale a 10,8% do que o estado já liquidou em saúde.
 
 A mesma conta, agora estado por estado, contra a despesa liquidada em saúde pelo próprio governo estadual.
 
-RR: 10,75%.
+RR: 10,8%.
+RO: 10,79%.
 AP: 10,65%.
-RO: 10,55%.
-AC: 8,89%.
-RJ: 8,76%.
-MS: 7,85%.
+AC: 9,0%.
+RJ: 8,85%.
+MS: 7,89%.
 
 No topo aparecem as unidades de menor população, onde o rateio por estado pesa mais sobre um orçamento menor. Continua sendo comparação de grandeza, e não transferência entre uma coisa e outra.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-21 21:19:15. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/09/2026 às 21:51.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-22 09:19:31. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 22/09/2026 às 09:51.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-Em RR, o dinheiro público de campanha equivale a 10,75% do que o estado já liquidou em saúde.
+Em RR, o dinheiro público de campanha equivale a 10,8% do que o estado já liquidou em saúde.
 Veja quanto a verba de campanha representa diante da saúde do seu estado.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)

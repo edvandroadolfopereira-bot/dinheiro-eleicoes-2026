@@ -2,24 +2,24 @@
 
 ## Instagram, legenda do post
 
-Metade dos fornecedores de campanha recebeu até R$ 2.000,00. A média é R$ 8.566,90.
+Metade dos fornecedores de campanha recebeu até R$ 2.000,00. A média é R$ 8.562,13.
 
 Distribuí os fornecedores por faixa de valor recebido. A diferença entre a mediana e a média é a marca aritmética da concentração: poucos gigantes puxam a média para cima enquanto a maioria recebe pouco.
 
-ate 1 mil: 79.738 fornecedores, R$ 47,7 mi.
-de 1 mil a 10 mil: 307.887 fornecedores, R$ 801,7 mi.
-de 10 mil a 100 mil: 34.199 fornecedores, R$ 801,6 mi.
-de 100 mil a 1 milhao: 4.257 fornecedores, R$ 1,13 bi.
-acima de 1 milhao: 302 fornecedores, R$ 868,2 mi.
+ate 1 mil: 81.289 fornecedores, R$ 48,7 mi.
+de 1 mil a 10 mil: 311.060 fornecedores, R$ 809,5 mi.
+de 10 mil a 100 mil: 34.429 fornecedores, R$ 807,2 mi.
+de 100 mil a 1 milhao: 4.302 fornecedores, R$ 1,15 bi.
+acima de 1 milhao: 303 fornecedores, R$ 882,8 mi.
 
-Pessoas físicas receberam R$ 1,14 bi e empresas R$ 2,52 bi.
+Pessoas físicas receberam R$ 1,15 bi e empresas R$ 2,55 bi.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-21 21:19:15. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-22 09:19:31. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/09/2026 às 21:51.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 22/09/2026 às 09:51.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE #jornalismodedados #periciacontabil #fiscalizacao #democracia
@@ -38,25 +38,25 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-Metade dos fornecedores de campanha recebeu até R$ 2.000,00. A média é R$ 8.566,90.
+Metade dos fornecedores de campanha recebeu até R$ 2.000,00. A média é R$ 8.562,13.
 
 Distribuí os fornecedores por faixa de valor recebido. A diferença entre a mediana e a média é a marca aritmética da concentração: poucos gigantes puxam a média para cima enquanto a maioria recebe pouco.
 
-ate 1 mil: 79.738 fornecedores, R$ 47,7 mi.
-de 1 mil a 10 mil: 307.887 fornecedores, R$ 801,7 mi.
-de 10 mil a 100 mil: 34.199 fornecedores, R$ 801,6 mi.
-de 100 mil a 1 milhao: 4.257 fornecedores, R$ 1,13 bi.
-acima de 1 milhao: 302 fornecedores, R$ 868,2 mi.
+ate 1 mil: 81.289 fornecedores, R$ 48,7 mi.
+de 1 mil a 10 mil: 311.060 fornecedores, R$ 809,5 mi.
+de 10 mil a 100 mil: 34.429 fornecedores, R$ 807,2 mi.
+de 100 mil a 1 milhao: 4.302 fornecedores, R$ 1,15 bi.
+acima de 1 milhao: 303 fornecedores, R$ 882,8 mi.
 
-Pessoas físicas receberam R$ 1,14 bi e empresas R$ 2,52 bi.
+Pessoas físicas receberam R$ 1,15 bi e empresas R$ 2,55 bi.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-21 21:19:15. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/09/2026 às 21:51.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-22 09:19:31. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 22/09/2026 às 09:51.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-Metade dos fornecedores de campanha recebeu até R$ 2.000,00. A média é R$ 8.566,90.
+Metade dos fornecedores de campanha recebeu até R$ 2.000,00. A média é R$ 8.562,13.
 Metade dos fornecedores de campanha recebeu muito pouco. Veja a distribuição.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
