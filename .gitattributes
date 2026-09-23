@@ -1,0 +1,8 @@
+# Somente os arquivos de licenca, e de proposito.
+#
+# Este repositorio foi criado com core.autocrlf=true e ja tem centenas de MB commitados
+# sob essa conversao. Uma regra  faria o git renormalizar tudo, num commit enorme
+# que nao entrega nada. O texto da Creative Commons, porem, e obra de terceiro e tem que
+# sair byte a byte como ela o publica, entao a conversao se desliga so nele.
+LICENSE -text
+LICENSE-CODIGO -text
