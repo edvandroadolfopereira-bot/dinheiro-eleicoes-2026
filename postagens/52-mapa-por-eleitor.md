@@ -2,24 +2,24 @@
 
 ## Instagram, legenda do post
 
-Em RR, cada eleitor apto carrega R$ 240,25 de verba pública de campanha.
+Em RR, cada eleitor apto carrega R$ 240,38 de verba pública de campanha.
 
 O mesmo mapa, agora dividido pelo eleitorado apto de cada estado, que é quem de fato vota.
 
-RR: R$ 240,25 por eleitor.
+RR: R$ 240,38 por eleitor.
 AP: R$ 170,99 por eleitor.
-AC: R$ 146,76 por eleitor.
-RO: R$ 86,08 por eleitor.
-TO: R$ 79,48 por eleitor.
+AC: R$ 146,82 por eleitor.
+RO: R$ 86,09 por eleitor.
+TO: R$ 79,51 por eleitor.
 
-A média nacional é R$ 32,20. No topo aparecem as unidades de menor eleitorado, porque o rateio dos fundos não segue o número de eleitores.
+A média nacional é R$ 32,33. No topo aparecem as unidades de menor eleitorado, porque o rateio dos fundos não segue o número de eleitores.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-22 21:18:32. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-23 09:17:53. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 22/09/2026 às 21:52.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 23/09/2026 às 09:48.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE #jornalismodedados #periciacontabil #fiscalizacao #democracia
@@ -38,25 +38,25 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-Em RR, cada eleitor apto carrega R$ 240,25 de verba pública de campanha.
+Em RR, cada eleitor apto carrega R$ 240,38 de verba pública de campanha.
 
 O mesmo mapa, agora dividido pelo eleitorado apto de cada estado, que é quem de fato vota.
 
-RR: R$ 240,25 por eleitor.
+RR: R$ 240,38 por eleitor.
 AP: R$ 170,99 por eleitor.
-AC: R$ 146,76 por eleitor.
-RO: R$ 86,08 por eleitor.
-TO: R$ 79,48 por eleitor.
+AC: R$ 146,82 por eleitor.
+RO: R$ 86,09 por eleitor.
+TO: R$ 79,51 por eleitor.
 
-A média nacional é R$ 32,20. No topo aparecem as unidades de menor eleitorado, porque o rateio dos fundos não segue o número de eleitores.
+A média nacional é R$ 32,33. No topo aparecem as unidades de menor eleitorado, porque o rateio dos fundos não segue o número de eleitores.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-22 21:18:32. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 22/09/2026 às 21:52.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-23 09:17:53. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 23/09/2026 às 09:48.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-Em RR, cada eleitor apto carrega R$ 240,25 de verba pública de campanha.
+Em RR, cada eleitor apto carrega R$ 240,38 de verba pública de campanha.
 Quanto de dinheiro público de campanha cabe a cada eleitor no seu estado.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
