@@ -2,21 +2,21 @@
 
 ## Instagram, legenda do post
 
-Das campanhas de 2026, R$ 3,72 bi foram contratados e R$ 2,17 bi já foram pagos.
+Das campanhas de 2026, R$ 3,75 bi foram contratados e R$ 2,21 bi já foram pagos.
 
-A diferença é R$ 1,55 bi, ou 41,56% do contratado, que ainda aparece como obrigação em aberto na prestação de contas.
+A diferença é R$ 1,54 bi, ou 41,05% do contratado, que ainda aparece como obrigação em aberto na prestação de contas.
 
 Isso não é irregularidade por si: despesa contratada e despesa paga são registros distintos, com datas distintas. Mas é o campo onde sobra conta por acertar quando a campanha termina.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-23 15:20:52. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-24 07:47:46. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 23/09/2026 às 15:56.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/09/2026 às 08:18.
 @edvandroadolfo  |  @gruponomos
 
-#eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE #jornalismodedados #periciacontabil #fiscalizacao #democracia
+#eleicoes2026 #contaspublicas #periciacontabil #transparencia
 
 ## Instagram, primeiro comentário
 
@@ -32,19 +32,19 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-Das campanhas de 2026, R$ 3,72 bi foram contratados e R$ 2,17 bi já foram pagos.
+Das campanhas de 2026, R$ 3,75 bi foram contratados e R$ 2,21 bi já foram pagos.
 
-A diferença é R$ 1,55 bi, ou 41,56% do contratado, que ainda aparece como obrigação em aberto na prestação de contas.
+A diferença é R$ 1,54 bi, ou 41,05% do contratado, que ainda aparece como obrigação em aberto na prestação de contas.
 
 Isso não é irregularidade por si: despesa contratada e despesa paga são registros distintos, com datas distintas. Mas é o campo onde sobra conta por acertar quando a campanha termina.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-23 15:20:52. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 23/09/2026 às 15:56.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-24 07:47:46. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/09/2026 às 08:18.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-Das campanhas de 2026, R$ 3,72 bi foram contratados e R$ 2,17 bi já foram pagos.
-R$ 1,55 bi contratados e ainda não pagos pelas campanhas.
+Das campanhas de 2026, R$ 3,75 bi foram contratados e R$ 2,21 bi já foram pagos.
+R$ 1,54 bi contratados e ainda não pagos pelas campanhas.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)

@@ -12,17 +12,17 @@ Depois bati no endereço de 13 órgãos públicos, entre eles Receita Federal, P
 
 A razão é legal, e não é omissão de ninguém: o art. 198 do Código Tributário Nacional veda à Fazenda divulgar a situação econômica do contribuinte, e o art. 31 da Lei de Acesso à Informação restringe o dado pessoal ligado à intimidade.
 
-O que existe, e é público, é a remuneração de agente público: 19,62% das candidaturas declaram ocupação desse tipo.
+O que existe, e é público, é a remuneração de agente público: 19,63% das candidaturas declaram ocupação desse tipo.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-23 15:20:52. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-24 07:47:46. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 23/09/2026 às 15:56.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/09/2026 às 08:18.
 @edvandroadolfo  |  @gruponomos
 
-#eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE #jornalismodedados #periciacontabil #fiscalizacao #democracia
+#eleicoes2026 #contaspublicas #periciacontabil #transparencia
 
 ## Instagram, primeiro comentário
 
@@ -48,11 +48,11 @@ Depois bati no endereço de 13 órgãos públicos, entre eles Receita Federal, P
 
 A razão é legal, e não é omissão de ninguém: o art. 198 do Código Tributário Nacional veda à Fazenda divulgar a situação econômica do contribuinte, e o art. 31 da Lei de Acesso à Informação restringe o dado pessoal ligado à intimidade.
 
-O que existe, e é público, é a remuneração de agente público: 19,62% das candidaturas declaram ocupação desse tipo.
+O que existe, e é público, é a remuneração de agente público: 19,63% das candidaturas declaram ocupação desse tipo.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-23 15:20:52. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 23/09/2026 às 15:56.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-24 07:47:46. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/09/2026 às 08:18.
 
 ## WhatsApp, mensagem curta para grupos e status
 

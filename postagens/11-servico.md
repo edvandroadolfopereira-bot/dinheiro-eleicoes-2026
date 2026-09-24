@@ -8,15 +8,15 @@ Faço perícia contábil judicial e assistência técnica: memória de cálculo 
 
 Atendimento técnico, sem vínculo com candidatura, partido ou campanha.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-23 15:20:52. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-24 07:47:46. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 23/09/2026 às 15:56.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/09/2026 às 08:18.
 @edvandroadolfo  |  @gruponomos
 
-#eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE #jornalismodedados #periciacontabil #fiscalizacao #democracia
+#eleicoes2026 #contaspublicas #periciacontabil #transparencia
 
 ## Instagram, primeiro comentário
 
@@ -40,7 +40,7 @@ Atendimento técnico, sem vínculo com candidatura, partido ou campanha.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-23 15:20:52. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 23/09/2026 às 15:56.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-24 07:47:46. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/09/2026 às 08:18.
 
 ## WhatsApp, mensagem curta para grupos e status
 
