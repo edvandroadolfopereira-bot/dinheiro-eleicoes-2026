@@ -2,18 +2,18 @@
 
 ## Instagram, legenda do post
 
-2.050 candidaturas declararam receita sem um real do FEFC ou do Fundo Partidário.
+2.064 candidaturas declararam receita sem um real do FEFC ou do Fundo Partidário.
 
-Esse grupo movimenta R$ 153,0 mi, ou 2,61% do dinheiro de campanha do país.
+Esse grupo movimenta R$ 156,9 mi, ou 2,65% do dinheiro de campanha do país.
 
-A maior parte vem de doação de pessoa física. Outras 4.680 candidaturas não declararam receita alguma, e isso não é autofinanciamento: é ausência de declaração, inclusive de vice e suplente, que não prestam conta própria.
+A maior parte vem de doação de pessoa física. Outras 4.645 candidaturas não declararam receita alguma, e isso não é autofinanciamento: é ausência de declaração, inclusive de vice e suplente, que não prestam conta própria.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-25 15:22:28. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-26 09:17:45. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 25/09/2026 às 16:20.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 26/09/2026 às 09:46.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -32,19 +32,19 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-2.050 candidaturas declararam receita sem um real do FEFC ou do Fundo Partidário.
+2.064 candidaturas declararam receita sem um real do FEFC ou do Fundo Partidário.
 
-Esse grupo movimenta R$ 153,0 mi, ou 2,61% do dinheiro de campanha do país.
+Esse grupo movimenta R$ 156,9 mi, ou 2,65% do dinheiro de campanha do país.
 
-A maior parte vem de doação de pessoa física. Outras 4.680 candidaturas não declararam receita alguma, e isso não é autofinanciamento: é ausência de declaração, inclusive de vice e suplente, que não prestam conta própria.
+A maior parte vem de doação de pessoa física. Outras 4.645 candidaturas não declararam receita alguma, e isso não é autofinanciamento: é ausência de declaração, inclusive de vice e suplente, que não prestam conta própria.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-25 15:22:28. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 25/09/2026 às 16:20.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-26 09:17:45. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 26/09/2026 às 09:46.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-2.050 candidaturas declararam receita sem um real do FEFC ou do Fundo Partidário.
-2.050 candidaturas correm sem fundo público.
+2.064 candidaturas declararam receita sem um real do FEFC ou do Fundo Partidário.
+2.064 candidaturas correm sem fundo público.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
