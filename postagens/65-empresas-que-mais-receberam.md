@@ -2,27 +2,27 @@
 
 ## Instagram, legenda do post
 
-FACEBOOK SERVICOS ONLINE DO BRASIL LTD recebeu R$ 178,1 mi, sozinha 6,8037% de tudo que as campanhas contrataram com empresas.
+FACEBOOK SERVICOS ONLINE DO BRASIL LTD recebeu R$ 192,3 mi, sozinha 7,1921% de tudo que as campanhas contrataram com empresas.
 
-São 48.137 empresas contratadas pelas campanhas, que somam R$ 2,62 bi. As cem maiores ficam com a maior parte disso.
+São 48.957 empresas contratadas pelas campanhas, que somam R$ 2,67 bi. As cem maiores ficam com a maior parte disso.
 
-1º FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.: R$ 178,1 mi, 6,8037%.
-2º DLOCAL BRASIL INSTITUICAO DE PAGAMENTO S: R$ 68,8 mi, 2,627%.
-3º DELTA3 COMUNICACAO E PROJETOS LTDA: R$ 31,0 mi, 1,1844%.
-4º EPOS BRASIL ESTRATEGIA, COMUNICACAO E TE: R$ 20,0 mi, 0,7641%.
-5º F.A.R.O PROPAGANDA E PUBLICIDADE LTDA: R$ 13,4 mi, 0,512%.
-6º URISSANE COMUNICACAO LTDA: R$ 8,7 mi, 0,3327%.
+1º FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.: R$ 192,3 mi, 7,1921%.
+2º DLOCAL BRASIL INSTITUICAO DE PAGAMENTO S: R$ 74,7 mi, 2,7951%.
+3º DELTA3 COMUNICACAO E PROJETOS LTDA: R$ 31,0 mi, 1,1597%.
+4º EPOS BRASIL ESTRATEGIA, COMUNICACAO E TE: R$ 20,0 mi, 0,7482%.
+5º F.A.R.O PROPAGANDA E PUBLICIDADE LTDA: R$ 13,4 mi, 0,5013%.
+6º EBANX PAGAMENTOS LTDA: R$ 9,1 mi, 0,3388%.
 
 Entre as cem maiores, 2 têm sócio no exterior, conferido no quadro societário do cadastro da Receita Federal.
 
 O valor é o CONTRATADO pelas campanhas, que nem sempre já foi pago.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-27 09:01:54. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-27 15:11:15. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/09/2026 às 09:07.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/09/2026 às 15:29.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -41,16 +41,16 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-FACEBOOK SERVICOS ONLINE DO BRASIL LTD recebeu R$ 178,1 mi, sozinha 6,8037% de tudo que as campanhas contrataram com empresas.
+FACEBOOK SERVICOS ONLINE DO BRASIL LTD recebeu R$ 192,3 mi, sozinha 7,1921% de tudo que as campanhas contrataram com empresas.
 
-São 48.137 empresas contratadas pelas campanhas, que somam R$ 2,62 bi. As cem maiores ficam com a maior parte disso.
+São 48.957 empresas contratadas pelas campanhas, que somam R$ 2,67 bi. As cem maiores ficam com a maior parte disso.
 
-1º FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.: R$ 178,1 mi, 6,8037%.
-2º DLOCAL BRASIL INSTITUICAO DE PAGAMENTO S: R$ 68,8 mi, 2,627%.
-3º DELTA3 COMUNICACAO E PROJETOS LTDA: R$ 31,0 mi, 1,1844%.
-4º EPOS BRASIL ESTRATEGIA, COMUNICACAO E TE: R$ 20,0 mi, 0,7641%.
-5º F.A.R.O PROPAGANDA E PUBLICIDADE LTDA: R$ 13,4 mi, 0,512%.
-6º URISSANE COMUNICACAO LTDA: R$ 8,7 mi, 0,3327%.
+1º FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.: R$ 192,3 mi, 7,1921%.
+2º DLOCAL BRASIL INSTITUICAO DE PAGAMENTO S: R$ 74,7 mi, 2,7951%.
+3º DELTA3 COMUNICACAO E PROJETOS LTDA: R$ 31,0 mi, 1,1597%.
+4º EPOS BRASIL ESTRATEGIA, COMUNICACAO E TE: R$ 20,0 mi, 0,7482%.
+5º F.A.R.O PROPAGANDA E PUBLICIDADE LTDA: R$ 13,4 mi, 0,5013%.
+6º EBANX PAGAMENTOS LTDA: R$ 9,1 mi, 0,3388%.
 
 Entre as cem maiores, 2 têm sócio no exterior, conferido no quadro societário do cadastro da Receita Federal.
 
@@ -58,11 +58,11 @@ O valor é o CONTRATADO pelas campanhas, que nem sempre já foi pago.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-27 09:01:54. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/09/2026 às 09:07.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-27 15:11:15. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/09/2026 às 15:29.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-FACEBOOK SERVICOS ONLINE DO BRASIL LTD recebeu R$ 178,1 mi, sozinha 6,8037% de tudo que as campanhas contrataram com empresas.
+FACEBOOK SERVICOS ONLINE DO BRASIL LTD recebeu R$ 192,3 mi, sozinha 7,1921% de tudo que as campanhas contrataram com empresas.
 As empresas que mais receberam dinheiro de campanha em 2026.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
