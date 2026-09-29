@@ -2,20 +2,20 @@
 
 ## Instagram, legenda do post
 
-O maior doador pessoa física do país colocou R$ 4,0 mi em campanhas.
+O maior doador pessoa física do país colocou R$ 5,0 mi em campanhas.
 
 Empresa não pode doar para campanha desde 2015. Toda doação privada vem de pessoa física, e o TSE publica nome e valor.
 
-Alexandre Grendene Bartelle: R$ 4,0 mi para 6 candidatos.
+Mauro Alves Pinheiro: R$ 5,0 mi para 1 candidatos.
 
-No total, pessoas físicas doaram R$ 452,5 mi, 7,53% de toda a receita.
+No total, pessoas físicas doaram R$ 479,9 mi, 7,90% de toda a receita.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-29 03:01:53. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-29 15:04:24. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 29/09/2026 às 03:08.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 29/09/2026 às 15:19.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -34,21 +34,21 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-O maior doador pessoa física do país colocou R$ 4,0 mi em campanhas.
+O maior doador pessoa física do país colocou R$ 5,0 mi em campanhas.
 
 Empresa não pode doar para campanha desde 2015. Toda doação privada vem de pessoa física, e o TSE publica nome e valor.
 
-Alexandre Grendene Bartelle: R$ 4,0 mi para 6 candidatos.
+Mauro Alves Pinheiro: R$ 5,0 mi para 1 candidatos.
 
-No total, pessoas físicas doaram R$ 452,5 mi, 7,53% de toda a receita.
+No total, pessoas físicas doaram R$ 479,9 mi, 7,90% de toda a receita.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-29 03:01:53. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 29/09/2026 às 03:08.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-29 15:04:24. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 29/09/2026 às 15:19.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-O maior doador pessoa física do país colocou R$ 4,0 mi em campanhas.
-Pessoas físicas doaram R$ 452,5 mi, 7,53% do total.
+O maior doador pessoa física do país colocou R$ 5,0 mi em campanhas.
+Pessoas físicas doaram R$ 479,9 mi, 7,90% do total.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
