@@ -1,33 +1,33 @@
 # Legendas prontas para a postagem
 
-Extracao do TSE: 2026-09-30 09:03:54 | Publicado em: 30/09/2026 as 09:15 | Autoria: EDVANDRO ADOLFO PEREIRA
+Extracao do TSE: 2026-09-30 15:13:21 | Publicado em: 30/09/2026 as 15:27 | Autoria: EDVANDRO ADOLFO PEREIRA
 
 ## Legenda do carrossel
 
 O DINHEIRO DAS ELEICOES 2026 E QUEM SAO OS SEUS BENEFICIARIOS
 Pela visao de um perito judicial contabil
 
-De cada R$ 100 que entraram nas campanhas deste ano, R$ 86,10 sairam do
+De cada R$ 100 que entraram nas campanhas deste ano, R$ 85,78 sairam do
 bolso do contribuinte. Veja quem recebe.
 
-As campanhas declararam R$ 6.078.702.229,57 de receita ate 2026-09-29.
-Desse total, R$ 5,23 bi (86,10%) e dinheiro publico: FEFC
-R$ 4,76 bi (78,23%) mais Fundo Partidario R$ 479,0 mi
-(7,88%).
+As campanhas declararam R$ 6.138.159.949,84 de receita ate 2026-09-30.
+Desse total, R$ 5,27 bi (85,78%) e dinheiro publico: FEFC
+R$ 4,77 bi (77,79%) mais Fundo Partidario R$ 490,4 mi
+(7,99%).
 
-Doacao de pessoa fisica: R$ 479,9 mi (7,90%).
-Recurso do proprio candidato: R$ 113,8 mi (1,87%).
+Doacao de pessoa fisica: R$ 495,0 mi (8,06%).
+Recurso do proprio candidato: R$ 118,5 mi (1,93%).
 
-Os 100 maiores fornecedores ficam com R$ 681,6 mi, ou
-17,43% de tudo que foi contratado.
+Os 100 maiores fornecedores ficam com R$ 695,1 mi, ou
+17,55% de tudo que foi contratado.
 
 Fonte: Tribunal Superior Eleitoral, dados abertos das Eleicoes Gerais de 2026, extracao de
-2026-09-30 09:03:54. A prestacao de contas e parcial e muda todo dia.
+2026-09-30 15:13:21. A prestacao de contas e parcial e muda todo dia.
 
 Dados completos para baixar: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
 Levantamento, apuracao e organizacao: EDVANDRO ADOLFO PEREIRA, perito judicial contabil.
-Publicado em 30/09/2026 as 09:15. @edvandroadolfo | @gruponomos
+Publicado em 30/09/2026 as 15:27. @edvandroadolfo | @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE
 #jornalismodedados #fiscalizacao #democracia #dinheiropublico

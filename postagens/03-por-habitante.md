@@ -4,18 +4,18 @@
 
 Em AP, o dinheiro público de campanha equivale a 11,6% de uma renda mensal por habitante.
 
-No país, são R$ 28,38 de campanha por habitante, dos quais R$ 24,43 de dinheiro público.
+No país, são R$ 28,65 de campanha por habitante, dos quais R$ 24,58 de dinheiro público.
 
-A distribuição é inversa à renda. AP tem renda domiciliar média de R$ 1.142,15 por pessoa ao mês e recebeu R$ 132,45 de verba pública de campanha por habitante.
+A distribuição é inversa à renda. AP tem renda domiciliar média de R$ 1.142,15 por pessoa ao mês e recebeu R$ 132,46 de verba pública de campanha por habitante.
 
 O rateio dos fundos não segue a renda do estado, e é por isso que o esforço por habitante aparece maior justamente onde se ganha menos.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-30 09:03:54. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-30 15:13:21. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 30/09/2026 às 09:15.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 30/09/2026 às 15:27.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -36,19 +36,19 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 Em AP, o dinheiro público de campanha equivale a 11,6% de uma renda mensal por habitante.
 
-No país, são R$ 28,38 de campanha por habitante, dos quais R$ 24,43 de dinheiro público.
+No país, são R$ 28,65 de campanha por habitante, dos quais R$ 24,58 de dinheiro público.
 
-A distribuição é inversa à renda. AP tem renda domiciliar média de R$ 1.142,15 por pessoa ao mês e recebeu R$ 132,45 de verba pública de campanha por habitante.
+A distribuição é inversa à renda. AP tem renda domiciliar média de R$ 1.142,15 por pessoa ao mês e recebeu R$ 132,46 de verba pública de campanha por habitante.
 
 O rateio dos fundos não segue a renda do estado, e é por isso que o esforço por habitante aparece maior justamente onde se ganha menos.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-30 09:03:54. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 30/09/2026 às 09:15.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-30 15:13:21. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 30/09/2026 às 15:27.
 
 ## WhatsApp, mensagem curta para grupos e status
 
 Em AP, o dinheiro público de campanha equivale a 11,6% de uma renda mensal por habitante.
-R$ 24,43 de dinheiro público de campanha por habitante no país.
+R$ 24,58 de dinheiro público de campanha por habitante no país.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
