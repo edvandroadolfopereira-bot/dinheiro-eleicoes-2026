@@ -2,7 +2,7 @@
 
 ## Instagram, legenda do post
 
-Os cem maiores patrimônios declarados somam R$ 15,19 bi, que é 46,88% de tudo que as 20.987 candidaturas declararam.
+Os cem maiores patrimônios declarados somam R$ 15,19 bi, que é 46,88% de tudo que as 20.988 candidaturas declararam.
 
 Abri a lista dos cem maiores patrimônios por estado e por sigla, porque a lista corrida não mostra de onde essa riqueza vem.
 
@@ -24,12 +24,12 @@ MT: 6 dos cem, maior é OTAVIANO PIVETTA com R$ 575,7 mi.
 
 O valor é o que o próprio candidato declarou ao TSE, e não um valor apurado.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-29 15:04:24. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-29 21:01:44. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 29/09/2026 às 15:19.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 29/09/2026 às 21:07.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -48,7 +48,7 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-Os cem maiores patrimônios declarados somam R$ 15,19 bi, que é 46,88% de tudo que as 20.987 candidaturas declararam.
+Os cem maiores patrimônios declarados somam R$ 15,19 bi, que é 46,88% de tudo que as 20.988 candidaturas declararam.
 
 Abri a lista dos cem maiores patrimônios por estado e por sigla, porque a lista corrida não mostra de onde essa riqueza vem.
 
@@ -72,11 +72,11 @@ O valor é o que o próprio candidato declarou ao TSE, e não um valor apurado.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-29 15:04:24. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 29/09/2026 às 15:19.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-09-29 21:01:44. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 29/09/2026 às 21:07.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-Os cem maiores patrimônios declarados somam R$ 15,19 bi, que é 46,88% de tudo que as 20.987 candidaturas declararam.
+Os cem maiores patrimônios declarados somam R$ 15,19 bi, que é 46,88% de tudo que as 20.988 candidaturas declararam.
 Os cem candidatos mais ricos, abertos por estado e por partido.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
