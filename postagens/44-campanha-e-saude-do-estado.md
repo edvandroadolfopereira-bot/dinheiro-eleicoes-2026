@@ -8,19 +8,19 @@ A mesma conta, agora estado por estado, contra a despesa liquidada em saúde pel
 
 RR: 7,92%.
 RO: 6,91%.
-AP: 6,86%.
 AC: 6,38%.
-RJ: 6,14%.
-RN: 6,02%.
+PI: 4,47%.
+PB: 4,29%.
+AM: 3,94%.
 
 No topo aparecem as unidades de menor população, onde o rateio por estado pesa mais sobre um orçamento menor. Continua sendo comparação de grandeza, e não transferência entre uma coisa e outra.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-01 10:33:02. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-01 15:18:36. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 01/10/2026 às 10:48.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 01/10/2026 às 15:30.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -45,16 +45,16 @@ A mesma conta, agora estado por estado, contra a despesa liquidada em saúde pel
 
 RR: 7,92%.
 RO: 6,91%.
-AP: 6,86%.
 AC: 6,38%.
-RJ: 6,14%.
-RN: 6,02%.
+PI: 4,47%.
+PB: 4,29%.
+AM: 3,94%.
 
 No topo aparecem as unidades de menor população, onde o rateio por estado pesa mais sobre um orçamento menor. Continua sendo comparação de grandeza, e não transferência entre uma coisa e outra.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-01 10:33:02. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 01/10/2026 às 10:48.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-01 15:18:36. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 01/10/2026 às 15:30.
 
 ## WhatsApp, mensagem curta para grupos e status
 
