@@ -2,20 +2,20 @@
 
 ## Instagram, legenda do post
 
-R$ 6,14 bi já entraram nas campanhas de 2026. E 85,78% disso é dinheiro público.
+R$ 6,28 bi já entraram nas campanhas de 2026. E 84,48% disso é dinheiro público.
 
-As campanhas declararam R$ 6.138.159.949,84 de receita, vindos de 20.988 candidaturas.
+As campanhas declararam R$ 6.277.827.604,51 de receita, vindos de 20.988 candidaturas.
 
-Desse total, R$ 4,77 bi são do Fundo Especial de Financiamento de Campanha e R$ 490,4 mi do Fundo Partidário: os dois saem do Orçamento da União.
+Desse total, R$ 4,79 bi são do Fundo Especial de Financiamento de Campanha e R$ 514,3 mi do Fundo Partidário: os dois saem do Orçamento da União.
 
-Doação de pessoa física responde por 8,06% e o dinheiro do próprio candidato, por 1,93%.
+Doação de pessoa física responde por 8,82% e o dinheiro do próprio candidato, por 2,08%.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-01 15:18:36. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-02 10:52:56. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 01/10/2026 às 15:30.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 02/10/2026 às 11:15.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -34,21 +34,21 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-R$ 6,14 bi já entraram nas campanhas de 2026. E 85,78% disso é dinheiro público.
+R$ 6,28 bi já entraram nas campanhas de 2026. E 84,48% disso é dinheiro público.
 
-As campanhas declararam R$ 6.138.159.949,84 de receita, vindos de 20.988 candidaturas.
+As campanhas declararam R$ 6.277.827.604,51 de receita, vindos de 20.988 candidaturas.
 
-Desse total, R$ 4,77 bi são do Fundo Especial de Financiamento de Campanha e R$ 490,4 mi do Fundo Partidário: os dois saem do Orçamento da União.
+Desse total, R$ 4,79 bi são do Fundo Especial de Financiamento de Campanha e R$ 514,3 mi do Fundo Partidário: os dois saem do Orçamento da União.
 
-Doação de pessoa física responde por 8,06% e o dinheiro do próprio candidato, por 1,93%.
+Doação de pessoa física responde por 8,82% e o dinheiro do próprio candidato, por 2,08%.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-01 15:18:36. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 01/10/2026 às 15:30.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-02 10:52:56. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 02/10/2026 às 11:15.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-R$ 6,14 bi já entraram nas campanhas de 2026. E 85,78% disso é dinheiro público.
-São R$ 5,27 bi de dinheiro público em campanha, 85,78% de tudo.
+R$ 6,28 bi já entraram nas campanhas de 2026. E 84,48% disso é dinheiro público.
+São R$ 5,30 bi de dinheiro público em campanha, 84,48% de tudo.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)

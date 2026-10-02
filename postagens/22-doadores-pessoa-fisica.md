@@ -8,14 +8,14 @@ Empresa não pode doar para campanha desde 2015. Toda doação privada vem de pe
 
 
 
-No total, pessoas físicas doaram R$ 495,0 mi, 8,06% de toda a receita.
+No total, pessoas físicas doaram R$ 553,7 mi, 8,82% de toda a receita.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-01 15:18:36. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-02 10:52:56. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 01/10/2026 às 15:30.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 02/10/2026 às 11:15.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -40,15 +40,15 @@ Empresa não pode doar para campanha desde 2015. Toda doação privada vem de pe
 
 
 
-No total, pessoas físicas doaram R$ 495,0 mi, 8,06% de toda a receita.
+No total, pessoas físicas doaram R$ 553,7 mi, 8,82% de toda a receita.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-01 15:18:36. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 01/10/2026 às 15:30.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-02 10:52:56. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 02/10/2026 às 11:15.
 
 ## WhatsApp, mensagem curta para grupos e status
 
 Os maiores doadores pessoa física desta eleição.
-Pessoas físicas doaram R$ 495,0 mi, 8,06% do total.
+Pessoas físicas doaram R$ 553,7 mi, 8,82% do total.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)

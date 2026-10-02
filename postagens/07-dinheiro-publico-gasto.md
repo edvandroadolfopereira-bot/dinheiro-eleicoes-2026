@@ -6,18 +6,18 @@ Publicidade impressa e serviços de terceiros lideram o gasto do Fundo Partidár
 
 Gasto final já pago, sem a transferência entre partido e candidato, que contaria o mesmo real duas vezes.
 
-Publicidade por materiais impressos: R$ 30,2 mi.
-Serviços prestados por terceiros: R$ 27,8 mi.
-Despesa com Impulsionamento de Conteúdos: R$ 18,2 mi.
-Produção de programas de rádio, televisão ou vídeo: R$ 17,9 mi.
-Serviços advocatícios: R$ 15,7 mi.
+Publicidade por materiais impressos: R$ 33,5 mi.
+Serviços prestados por terceiros: R$ 28,6 mi.
+Despesa com Impulsionamento de Conteúdos: R$ 20,5 mi.
+Produção de programas de rádio, televisão ou vídeo: R$ 18,2 mi.
+Serviços advocatícios: R$ 16,1 mi.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-01 15:18:36. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-02 10:52:56. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 01/10/2026 às 15:30.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 02/10/2026 às 11:15.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -40,15 +40,15 @@ Publicidade impressa e serviços de terceiros lideram o gasto do Fundo Partidár
 
 Gasto final já pago, sem a transferência entre partido e candidato, que contaria o mesmo real duas vezes.
 
-Publicidade por materiais impressos: R$ 30,2 mi.
-Serviços prestados por terceiros: R$ 27,8 mi.
-Despesa com Impulsionamento de Conteúdos: R$ 18,2 mi.
-Produção de programas de rádio, televisão ou vídeo: R$ 17,9 mi.
-Serviços advocatícios: R$ 15,7 mi.
+Publicidade por materiais impressos: R$ 33,5 mi.
+Serviços prestados por terceiros: R$ 28,6 mi.
+Despesa com Impulsionamento de Conteúdos: R$ 20,5 mi.
+Produção de programas de rádio, televisão ou vídeo: R$ 18,2 mi.
+Serviços advocatícios: R$ 16,1 mi.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-01 15:18:36. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 01/10/2026 às 15:30.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-02 10:52:56. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 02/10/2026 às 11:15.
 
 ## WhatsApp, mensagem curta para grupos e status
 
