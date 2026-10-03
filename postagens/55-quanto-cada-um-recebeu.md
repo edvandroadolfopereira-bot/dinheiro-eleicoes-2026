@@ -2,24 +2,24 @@
 
 ## Instagram, legenda do post
 
-Metade dos fornecedores de campanha recebeu até R$ 1.800,00. A média é R$ 8.465,46.
+Metade dos fornecedores de campanha recebeu até R$ 1.800,00. A média é R$ 8.397,38.
 
 Distribuí os fornecedores por faixa de valor recebido. A diferença entre a mediana e a média é a marca aritmética da concentração: poucos gigantes puxam a média para cima enquanto a maioria recebe pouco.
 
-ate 1 mil: 97.258 fornecedores, R$ 58,7 mi.
-de 1 mil a 10 mil: 345.708 fornecedores, R$ 891,4 mi.
-de 10 mil a 100 mil: 36.724 fornecedores, R$ 862,1 mi.
-de 100 mil a 1 milhao: 4.617 fornecedores, R$ 1,23 bi.
-acima de 1 milhao: 341 fornecedores, R$ 1,06 bi.
+ate 1 mil: 102.287 fornecedores, R$ 61,7 mi.
+de 1 mil a 10 mil: 358.558 fornecedores, R$ 921,6 mi.
+de 10 mil a 100 mil: 37.769 fornecedores, R$ 883,8 mi.
+de 100 mil a 1 milhao: 4.720 fornecedores, R$ 1,25 bi.
+acima de 1 milhao: 355 fornecedores, R$ 1,11 bi.
 
-Pessoas físicas receberam R$ 1,25 bi e empresas R$ 2,85 bi.
+Pessoas físicas receberam R$ 1,29 bi e empresas R$ 2,94 bi.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-02 10:52:56. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-03 15:14:13. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 02/10/2026 às 11:15.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 03/10/2026 às 15:32.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -38,25 +38,25 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-Metade dos fornecedores de campanha recebeu até R$ 1.800,00. A média é R$ 8.465,46.
+Metade dos fornecedores de campanha recebeu até R$ 1.800,00. A média é R$ 8.397,38.
 
 Distribuí os fornecedores por faixa de valor recebido. A diferença entre a mediana e a média é a marca aritmética da concentração: poucos gigantes puxam a média para cima enquanto a maioria recebe pouco.
 
-ate 1 mil: 97.258 fornecedores, R$ 58,7 mi.
-de 1 mil a 10 mil: 345.708 fornecedores, R$ 891,4 mi.
-de 10 mil a 100 mil: 36.724 fornecedores, R$ 862,1 mi.
-de 100 mil a 1 milhao: 4.617 fornecedores, R$ 1,23 bi.
-acima de 1 milhao: 341 fornecedores, R$ 1,06 bi.
+ate 1 mil: 102.287 fornecedores, R$ 61,7 mi.
+de 1 mil a 10 mil: 358.558 fornecedores, R$ 921,6 mi.
+de 10 mil a 100 mil: 37.769 fornecedores, R$ 883,8 mi.
+de 100 mil a 1 milhao: 4.720 fornecedores, R$ 1,25 bi.
+acima de 1 milhao: 355 fornecedores, R$ 1,11 bi.
 
-Pessoas físicas receberam R$ 1,25 bi e empresas R$ 2,85 bi.
+Pessoas físicas receberam R$ 1,29 bi e empresas R$ 2,94 bi.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-02 10:52:56. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 02/10/2026 às 11:15.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-03 15:14:13. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 03/10/2026 às 15:32.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-Metade dos fornecedores de campanha recebeu até R$ 1.800,00. A média é R$ 8.465,46.
+Metade dos fornecedores de campanha recebeu até R$ 1.800,00. A média é R$ 8.397,38.
 Metade dos fornecedores de campanha recebeu muito pouco. Veja a distribuição.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
