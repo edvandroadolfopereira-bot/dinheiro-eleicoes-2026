@@ -10,12 +10,12 @@ O 1% que mais arrecada fica com 17,33% do dinheiro. Os 10% do topo ficam com 61,
 
 Para comparar: essa desigualdade é maior que a desigualdade da renda entre brasileiros, medida pelo mesmo índice no Censo de 2022.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-03 15:14:13. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-03 16:42:27. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 03/10/2026 às 15:32.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 03/10/2026 às 16:47.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -44,7 +44,7 @@ Para comparar: essa desigualdade é maior que a desigualdade da renda entre bras
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-03 15:14:13. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 03/10/2026 às 15:32.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-03 16:42:27. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 03/10/2026 às 16:47.
 
 ## WhatsApp, mensagem curta para grupos e status
 
