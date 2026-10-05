@@ -26,10 +26,10 @@
   "REC_SEM_ORIGEM": 0.0
  },
  "doadores_distintos": 74218,
- "bens_linhas": 77294,
+ "bens_linhas": 77297,
  "bens_valor_ilegivel": 0,
  "bens_chave_repetida_sq_ordem": 0,
- "bens_total": 32048732450.5,
+ "bens_total": 32049192450.5,
  "candidatos_com_bem_acima_50mi": 36,
  "despesas_contratadas_linhas": 942740,
  "despesas_contratadas_sq_unicos": 749244,
@@ -56,11 +56,14 @@
  "Fundo Especial de Financiamento de Campanha | PARTIDOS | transferido a outros prestadores": 4786775700.86,
  "Fundo Partidário | PARTIDOS | pago total": 554404853.7,
  "Fundo Partidário | PARTIDOS | transferido a outros prestadores": 497953855.74,
- "votacao_linhas": 0,
- "gerado_em": "2026-10-05 10:04:29",
+ "votacao_linhas": 6661888,
+ "gerado_em": "2026-10-05 15:05:45",
  "soma_receitas_candidatos_confere": true,
  "pago_por_fornecedor_confere": true,
  "receitas_de_sq_fora_do_cadastro": 0.0,
  "colunas_da_ordem_do_usuario_ausentes": [],
- "colunas_novas_fora_da_ordem_do_usuario": []
+ "colunas_novas_fora_da_ordem_do_usuario": [
+  "VOTOS_VALIDOS_1T",
+  "RESULTADO"
+ ]
 }
