@@ -1,33 +1,33 @@
 # Legendas prontas para a postagem
 
-Extracao do TSE: 2026-10-03 21:02:10 | Publicado em: 05/10/2026 as 08:32 | Autoria: EDVANDRO ADOLFO PEREIRA
+Extracao do TSE: 2026-10-05 10:04:29 | Publicado em: 05/10/2026 as 10:11 | Autoria: EDVANDRO ADOLFO PEREIRA
 
 ## Legenda do carrossel
 
 O DINHEIRO DAS ELEICOES 2026 E QUEM SAO OS SEUS BENEFICIARIOS
 Pela visao de um perito judicial contabil
 
-De cada R$ 100 que entraram nas campanhas deste ano, R$ 83,75 sairam do
+De cada R$ 100 que entraram nas campanhas deste ano, R$ 83,23 sairam do
 bolso do contribuinte. Veja quem recebe.
 
-As campanhas declararam R$ 6.364.170.828,02 de receita ate 2026-10-03.
-Desse total, R$ 5,33 bi (83,75%) e dinheiro publico: FEFC
-R$ 4,81 bi (75,53%) mais Fundo Partidario R$ 522,9 mi
+As campanhas declararam R$ 6.418.819.142,18 de receita ate 2026-10-04.
+Desse total, R$ 5,34 bi (83,23%) e dinheiro publico: FEFC
+R$ 4,82 bi (75,02%) mais Fundo Partidario R$ 527,5 mi
 (8,22%).
 
-Doacao de pessoa fisica: R$ 589,2 mi (9,26%).
-Recurso do proprio candidato: R$ 140,9 mi (2,21%).
+Doacao de pessoa fisica: R$ 612,1 mi (9,54%).
+Recurso do proprio candidato: R$ 147,6 mi (2,30%).
 
-Os 100 maiores fornecedores ficam com R$ 758,5 mi, ou
-17,93% de tudo que foi contratado.
+Os 100 maiores fornecedores ficam com R$ 777,6 mi, ou
+17,92% de tudo que foi contratado.
 
 Fonte: Tribunal Superior Eleitoral, dados abertos das Eleicoes Gerais de 2026, extracao de
-2026-10-03 21:02:10. A prestacao de contas e parcial e muda todo dia.
+2026-10-05 10:04:29. A prestacao de contas e parcial e muda todo dia.
 
 Dados completos para baixar: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
 Levantamento, apuracao e organizacao: EDVANDRO ADOLFO PEREIRA, perito judicial contabil.
-Publicado em 05/10/2026 as 08:32. @edvandroadolfo | @gruponomos
+Publicado em 05/10/2026 as 10:11. @edvandroadolfo | @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE
 #jornalismodedados #fiscalizacao #democracia #dinheiropublico
