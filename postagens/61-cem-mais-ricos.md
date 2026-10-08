@@ -2,7 +2,7 @@
 
 ## Instagram, legenda do post
 
-Os cem maiores patrimônios declarados somam R$ 14,87 bi, que é 46,41% de tudo que as 20.989 candidaturas declararam.
+Os cem maiores patrimônios declarados somam R$ 14,87 bi, que é 46,40% de tudo que as 20.989 candidaturas declararam.
 
 Abri a lista dos cem maiores patrimônios por estado e por sigla, porque a lista corrida não mostra de onde essa riqueza vem.
 
@@ -10,7 +10,7 @@ Por sigla partidária:
 PL: 17 dos cem, R$ 4,90 bi somados na sigla inteira.
 MDB: 7 dos cem, R$ 3,34 bi somados na sigla inteira.
 PSDB: 6 dos cem, R$ 2,59 bi somados na sigla inteira.
-PSD: 10 dos cem, R$ 2,53 bi somados na sigla inteira.
+PSD: 10 dos cem, R$ 2,54 bi somados na sigla inteira.
 REPUBLICANOS: 9 dos cem, R$ 2,48 bi somados na sigla inteira.
 NOVO: 9 dos cem, R$ 1,88 bi somados na sigla inteira.
 
@@ -24,12 +24,12 @@ GO: 9 dos cem, maior é CARLOS FILHO com R$ 157,8 mi.
 
 O valor é o que o próprio candidato declarou ao TSE, e não um valor apurado.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-08 09:03:34. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-08 15:03:33. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 08/10/2026 às 09:29.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 08/10/2026 às 15:08.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -48,7 +48,7 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-Os cem maiores patrimônios declarados somam R$ 14,87 bi, que é 46,41% de tudo que as 20.989 candidaturas declararam.
+Os cem maiores patrimônios declarados somam R$ 14,87 bi, que é 46,40% de tudo que as 20.989 candidaturas declararam.
 
 Abri a lista dos cem maiores patrimônios por estado e por sigla, porque a lista corrida não mostra de onde essa riqueza vem.
 
@@ -56,7 +56,7 @@ Por sigla partidária:
 PL: 17 dos cem, R$ 4,90 bi somados na sigla inteira.
 MDB: 7 dos cem, R$ 3,34 bi somados na sigla inteira.
 PSDB: 6 dos cem, R$ 2,59 bi somados na sigla inteira.
-PSD: 10 dos cem, R$ 2,53 bi somados na sigla inteira.
+PSD: 10 dos cem, R$ 2,54 bi somados na sigla inteira.
 REPUBLICANOS: 9 dos cem, R$ 2,48 bi somados na sigla inteira.
 NOVO: 9 dos cem, R$ 1,88 bi somados na sigla inteira.
 
@@ -72,11 +72,11 @@ O valor é o que o próprio candidato declarou ao TSE, e não um valor apurado.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-08 09:03:34. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 08/10/2026 às 09:29.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-08 15:03:33. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 08/10/2026 às 15:08.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-Os cem maiores patrimônios declarados somam R$ 14,87 bi, que é 46,41% de tudo que as 20.989 candidaturas declararam.
+Os cem maiores patrimônios declarados somam R$ 14,87 bi, que é 46,40% de tudo que as 20.989 candidaturas declararam.
 Os cem candidatos mais ricos, abertos por estado e por partido.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
