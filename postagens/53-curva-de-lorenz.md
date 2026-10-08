@@ -10,12 +10,12 @@ A reta seria a divisão perfeitamente igual. A área entre a reta e a curva é a
 
 O 1% que mais arrecada fica com 17,34% do dinheiro, e 1.043 candidatos concentram metade de tudo.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-08 06:53:14. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-08 09:03:34. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 08/10/2026 às 07:01.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 08/10/2026 às 09:29.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -44,7 +44,7 @@ O 1% que mais arrecada fica com 17,34% do dinheiro, e 1.043 candidatos concentra
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-08 06:53:14. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 08/10/2026 às 07:01.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-08 09:03:34. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 08/10/2026 às 09:29.
 
 ## WhatsApp, mensagem curta para grupos e status
 

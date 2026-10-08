@@ -1,6 +1,6 @@
 # Legendas prontas para a postagem
 
-Extracao do TSE: 2026-10-08 06:53:14 | Publicado em: 08/10/2026 as 07:01 | Autoria: EDVANDRO ADOLFO PEREIRA
+Extracao do TSE: 2026-10-08 09:03:34 | Publicado em: 08/10/2026 as 09:29 | Autoria: EDVANDRO ADOLFO PEREIRA
 
 ## Legenda do carrossel
 
@@ -10,7 +10,7 @@ Pela visao de um perito judicial contabil
 De cada R$ 100 que entraram nas campanhas deste ano, R$ 82,48 sairam do
 bolso do contribuinte. Veja quem recebe.
 
-As campanhas declararam R$ 6.499.395.514,29 de receita ate 2026-10-07.
+As campanhas declararam R$ 6.499.395.514,29 de receita ate 2026-10-08.
 Desse total, R$ 5,36 bi (82,48%) e dinheiro publico: FEFC
 R$ 4,82 bi (74,17%) mais Fundo Partidario R$ 540,0 mi
 (8,31%).
@@ -22,12 +22,12 @@ Os 100 maiores fornecedores ficam com R$ 808,4 mi, ou
 18,12% de tudo que foi contratado.
 
 Fonte: Tribunal Superior Eleitoral, dados abertos das Eleicoes Gerais de 2026, extracao de
-2026-10-08 06:53:14. A prestacao de contas e parcial e muda todo dia.
+2026-10-08 09:03:34. A prestacao de contas e parcial e muda todo dia.
 
 Dados completos para baixar: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
 Levantamento, apuracao e organizacao: EDVANDRO ADOLFO PEREIRA, perito judicial contabil.
-Publicado em 08/10/2026 as 07:01. @edvandroadolfo | @gruponomos
+Publicado em 08/10/2026 as 09:29. @edvandroadolfo | @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE
 #jornalismodedados #fiscalizacao #democracia #dinheiropublico
