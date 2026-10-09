@@ -2,24 +2,24 @@
 
 ## Instagram, legenda do post
 
-2.189 candidaturas declararam receita sem receber um real do fundo eleitoral nem do Fundo Partidário.
+2.193 candidaturas declararam receita sem receber um real do fundo eleitoral nem do Fundo Partidário.
 
 Três leituras do mesmo dinheiro, e elas se completam.
 
-PRIMEIRA, quem não usa dinheiro público: 2.189 candidaturas, que somam R$ 219,5 mi. A verba delas vem de doação de pessoa física (R$ 128,3 mi), do próprio bolso (R$ 38,5 mi) e de financiamento coletivo (R$ 5,4 mi).
+PRIMEIRA, quem não usa dinheiro público: 2.193 candidaturas, que somam R$ 221,0 mi. A verba delas vem de doação de pessoa física (R$ 129,3 mi), do próprio bolso (R$ 38,8 mi) e de financiamento coletivo (R$ 5,4 mi).
 
 SEGUNDA, o peso nos estados mais pobres: AP tem renda domiciliar média de R$ 1.142,15 por pessoa ao mês e recebeu R$ 134,34 de verba pública de campanha por habitante, o equivalente a 11,76% de uma renda mensal inteira de quem mora lá.
 
-TERCEIRA, poucos ficam com quase tudo: 1.043 candidatos concentram metade de todo o dinheiro, e o 1% do topo fica com 17,34%.
+TERCEIRA, poucos ficam com quase tudo: 1.043 candidatos concentram metade de todo o dinheiro, e o 1% do topo fica com 17,39%.
 
-Atenção a um corte que muda a leitura: outras 4.183 candidaturas não declararam receita alguma, e ausência de declaração NÃO é autofinanciamento. Elas ficam fora desta conta.
+Atenção a um corte que muda a leitura: outras 4.162 candidaturas não declararam receita alguma, e ausência de declaração NÃO é autofinanciamento. Elas ficam fora desta conta.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-08 15:03:33. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-09 13:33:26. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 08/10/2026 às 15:08.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/10/2026 às 14:23.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -38,25 +38,25 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-2.189 candidaturas declararam receita sem receber um real do fundo eleitoral nem do Fundo Partidário.
+2.193 candidaturas declararam receita sem receber um real do fundo eleitoral nem do Fundo Partidário.
 
 Três leituras do mesmo dinheiro, e elas se completam.
 
-PRIMEIRA, quem não usa dinheiro público: 2.189 candidaturas, que somam R$ 219,5 mi. A verba delas vem de doação de pessoa física (R$ 128,3 mi), do próprio bolso (R$ 38,5 mi) e de financiamento coletivo (R$ 5,4 mi).
+PRIMEIRA, quem não usa dinheiro público: 2.193 candidaturas, que somam R$ 221,0 mi. A verba delas vem de doação de pessoa física (R$ 129,3 mi), do próprio bolso (R$ 38,8 mi) e de financiamento coletivo (R$ 5,4 mi).
 
 SEGUNDA, o peso nos estados mais pobres: AP tem renda domiciliar média de R$ 1.142,15 por pessoa ao mês e recebeu R$ 134,34 de verba pública de campanha por habitante, o equivalente a 11,76% de uma renda mensal inteira de quem mora lá.
 
-TERCEIRA, poucos ficam com quase tudo: 1.043 candidatos concentram metade de todo o dinheiro, e o 1% do topo fica com 17,34%.
+TERCEIRA, poucos ficam com quase tudo: 1.043 candidatos concentram metade de todo o dinheiro, e o 1% do topo fica com 17,39%.
 
-Atenção a um corte que muda a leitura: outras 4.183 candidaturas não declararam receita alguma, e ausência de declaração NÃO é autofinanciamento. Elas ficam fora desta conta.
+Atenção a um corte que muda a leitura: outras 4.162 candidaturas não declararam receita alguma, e ausência de declaração NÃO é autofinanciamento. Elas ficam fora desta conta.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-08 15:03:33. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 08/10/2026 às 15:08.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-09 13:33:26. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/10/2026 às 14:23.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-2.189 candidaturas declararam receita sem receber um real do fundo eleitoral nem do Fundo Partidário.
+2.193 candidaturas declararam receita sem receber um real do fundo eleitoral nem do Fundo Partidário.
 Quem banca a própria campanha, onde a verba pública mais pesa, e quantos ficam com metade de tudo.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
