@@ -6,21 +6,21 @@
 
 Cada candidatura foi classificada pela fonte do dinheiro dela.
 
-Misto: 8.542 candidaturas, R$ 5,99 bi.
+Misto: 8.548 candidaturas, R$ 6,01 bi.
 Só recurso partidário e fundo público: 7.269 candidaturas, R$ 1,21 bi.
 Só doação de pessoa física: 504 candidaturas, R$ 34,5 mi.
 Só recurso próprio: 360 candidaturas, R$ 5,8 mi.
 Outras origens: 203 candidaturas, R$ 4,9 mi.
-Sem receita declarada: 4.171 candidaturas, R$ 0,00.
+Sem receita declarada: 4.177 candidaturas, R$ 0,00.
 
 Sem receita declarada não é o mesmo que autofinanciado: é quem ainda não declarou nada.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-10 09:03:04. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-10 15:03:15. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 10/10/2026 às 09:08.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 10/10/2026 às 15:08.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -43,18 +43,18 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 Cada candidatura foi classificada pela fonte do dinheiro dela.
 
-Misto: 8.542 candidaturas, R$ 5,99 bi.
+Misto: 8.548 candidaturas, R$ 6,01 bi.
 Só recurso partidário e fundo público: 7.269 candidaturas, R$ 1,21 bi.
 Só doação de pessoa física: 504 candidaturas, R$ 34,5 mi.
 Só recurso próprio: 360 candidaturas, R$ 5,8 mi.
 Outras origens: 203 candidaturas, R$ 4,9 mi.
-Sem receita declarada: 4.171 candidaturas, R$ 0,00.
+Sem receita declarada: 4.177 candidaturas, R$ 0,00.
 
 Sem receita declarada não é o mesmo que autofinanciado: é quem ainda não declarou nada.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-10 09:03:04. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 10/10/2026 às 09:08.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-10 15:03:15. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 10/10/2026 às 15:08.
 
 ## WhatsApp, mensagem curta para grupos e status
 

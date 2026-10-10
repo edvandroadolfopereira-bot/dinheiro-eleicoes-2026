@@ -8,14 +8,14 @@ Empresa não pode doar para campanha desde 2015. Toda doação privada vem de pe
 
 Pedro Grendene Bartelle: R$ 6,5 mi para 8 candidatos.
 
-No total, pessoas físicas doaram R$ 698,0 mi, 9,63% de toda a receita.
+No total, pessoas físicas doaram R$ 698,7 mi, 9,62% de toda a receita.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-10 09:03:04. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-10 15:03:15. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 10/10/2026 às 09:08.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 10/10/2026 às 15:08.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -40,15 +40,15 @@ Empresa não pode doar para campanha desde 2015. Toda doação privada vem de pe
 
 Pedro Grendene Bartelle: R$ 6,5 mi para 8 candidatos.
 
-No total, pessoas físicas doaram R$ 698,0 mi, 9,63% de toda a receita.
+No total, pessoas físicas doaram R$ 698,7 mi, 9,62% de toda a receita.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-10 09:03:04. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 10/10/2026 às 09:08.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-10 15:03:15. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 10/10/2026 às 15:08.
 
 ## WhatsApp, mensagem curta para grupos e status
 
 O maior doador pessoa física do país colocou R$ 6,5 mi em campanhas.
-Pessoas físicas doaram R$ 698,0 mi, 9,63% do total.
+Pessoas físicas doaram R$ 698,7 mi, 9,62% do total.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
