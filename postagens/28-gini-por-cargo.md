@@ -8,18 +8,18 @@ Calculei o índice de Gini separadamente dentro de cada cargo, entre os candidat
 
 Deputado Distrital: Gini 0,7108, com 56,29% do dinheiro nos 10% do topo.
 Deputado Federal: Gini 0,7065, com 51,13% do dinheiro nos 10% do topo.
-Governador: Gini 0,67, com 41,34% do dinheiro nos 10% do topo.
 Deputado Estadual: Gini 0,6649, com 46,31% do dinheiro nos 10% do topo.
+Governador: Gini 0,6436, com 40,45% do dinheiro nos 10% do topo.
 Senador: Gini 0,5621, com 28,14% do dinheiro nos 10% do topo.
 
 Quanto mais perto de um, mais o dinheiro daquela disputa está em poucas mãos.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-09 18:50:07. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-10 00:46:28. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/10/2026 às 18:57.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 10/10/2026 às 00:52.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -44,15 +44,15 @@ Calculei o índice de Gini separadamente dentro de cada cargo, entre os candidat
 
 Deputado Distrital: Gini 0,7108, com 56,29% do dinheiro nos 10% do topo.
 Deputado Federal: Gini 0,7065, com 51,13% do dinheiro nos 10% do topo.
-Governador: Gini 0,67, com 41,34% do dinheiro nos 10% do topo.
 Deputado Estadual: Gini 0,6649, com 46,31% do dinheiro nos 10% do topo.
+Governador: Gini 0,6436, com 40,45% do dinheiro nos 10% do topo.
 Senador: Gini 0,5621, com 28,14% do dinheiro nos 10% do topo.
 
 Quanto mais perto de um, mais o dinheiro daquela disputa está em poucas mãos.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-09 18:50:07. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/10/2026 às 18:57.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-10 00:46:28. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 10/10/2026 às 00:52.
 
 ## WhatsApp, mensagem curta para grupos e status
 

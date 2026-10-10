@@ -2,20 +2,20 @@
 
 ## Instagram, legenda do post
 
-200 candidaturas pertencem a pessoas que aparecem mais de uma vez na base.
+247 candidaturas pertencem a pessoas que aparecem mais de uma vez na base.
 
-Conferi o CPF publicado pelo TSE: 111 documentos se repetem entre candidaturas. O caso típico é presidente e vice da mesma chapa registrados como duas candidaturas da mesma pessoa.
+Conferi o CPF publicado pelo TSE: 147 documentos se repetem entre candidaturas. O caso típico é presidente e vice da mesma chapa registrados como duas candidaturas da mesma pessoa.
 
 Isso importa para quem soma patrimônio: somar as duas conta os mesmos bens duas vezes. No painel, essas candidaturas aparecem marcadas.
 
-Também conferi o dígito verificador de 20.986 CPFs publicados: 0 inválidos.
+Também conferi o dígito verificador de 21.022 CPFs publicados: 0 inválidos.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-09 18:50:07. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-10 00:46:28. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/10/2026 às 18:57.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 10/10/2026 às 00:52.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -34,21 +34,21 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-200 candidaturas pertencem a pessoas que aparecem mais de uma vez na base.
+247 candidaturas pertencem a pessoas que aparecem mais de uma vez na base.
 
-Conferi o CPF publicado pelo TSE: 111 documentos se repetem entre candidaturas. O caso típico é presidente e vice da mesma chapa registrados como duas candidaturas da mesma pessoa.
+Conferi o CPF publicado pelo TSE: 147 documentos se repetem entre candidaturas. O caso típico é presidente e vice da mesma chapa registrados como duas candidaturas da mesma pessoa.
 
 Isso importa para quem soma patrimônio: somar as duas conta os mesmos bens duas vezes. No painel, essas candidaturas aparecem marcadas.
 
-Também conferi o dígito verificador de 20.986 CPFs publicados: 0 inválidos.
+Também conferi o dígito verificador de 21.022 CPFs publicados: 0 inválidos.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-09 18:50:07. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/10/2026 às 18:57.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-10 00:46:28. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 10/10/2026 às 00:52.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-200 candidaturas pertencem a pessoas que aparecem mais de uma vez na base.
+247 candidaturas pertencem a pessoas que aparecem mais de uma vez na base.
 Conferência de CPF na base do TSE: a mesma pessoa aparece em duas candidaturas.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
