@@ -10,12 +10,12 @@ Desse total, R$ 5,42 bi são do Fundo Especial de Financiamento de Campanha e R$
 
 Doação de pessoa física responde por 9,66% e o dinheiro do próprio candidato, por 2,25%.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-11 21:04:53. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-12 03:02:46. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 11/10/2026 às 21:09.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 12/10/2026 às 03:08.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -44,7 +44,7 @@ Doação de pessoa física responde por 9,66% e o dinheiro do próprio candidato
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-11 21:04:53. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 11/10/2026 às 21:09.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-12 03:02:46. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 12/10/2026 às 03:08.
 
 ## WhatsApp, mensagem curta para grupos e status
 
