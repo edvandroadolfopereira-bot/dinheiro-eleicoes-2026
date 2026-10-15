@@ -6,20 +6,20 @@ SP concentra 12,89% de toda a receita declarada no país.
 
 Pintei o mapa do Brasil pela receita de campanha declarada pelos candidatos de cada estado. Quanto mais escuro, mais dinheiro.
 
-SP: R$ 941,4 mi, 12,89% do total.
-MG: R$ 540,1 mi, 7,40% do total.
-RJ: R$ 501,7 mi, 6,87% do total.
-BA: R$ 348,4 mi, 4,77% do total.
-PR: R$ 347,8 mi, 4,76% do total.
+SP: R$ 941,9 mi, 12,89% do total.
+MG: R$ 540,7 mi, 7,40% do total.
+RJ: R$ 501,9 mi, 6,87% do total.
+BA: R$ 348,8 mi, 4,77% do total.
+PR: R$ 348,3 mi, 4,76% do total.
 
 A campanha de presidente e vice não entra neste mapa: ela corre na circunscrição nacional e não pertence a estado nenhum.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-14 16:19:51. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-15 09:44:30. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 14/10/2026 às 22:16.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 15/10/2026 às 10:10.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -42,17 +42,17 @@ SP concentra 12,89% de toda a receita declarada no país.
 
 Pintei o mapa do Brasil pela receita de campanha declarada pelos candidatos de cada estado. Quanto mais escuro, mais dinheiro.
 
-SP: R$ 941,4 mi, 12,89% do total.
-MG: R$ 540,1 mi, 7,40% do total.
-RJ: R$ 501,7 mi, 6,87% do total.
-BA: R$ 348,4 mi, 4,77% do total.
-PR: R$ 347,8 mi, 4,76% do total.
+SP: R$ 941,9 mi, 12,89% do total.
+MG: R$ 540,7 mi, 7,40% do total.
+RJ: R$ 501,9 mi, 6,87% do total.
+BA: R$ 348,8 mi, 4,77% do total.
+PR: R$ 348,3 mi, 4,76% do total.
 
 A campanha de presidente e vice não entra neste mapa: ela corre na circunscrição nacional e não pertence a estado nenhum.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-14 16:19:51. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 14/10/2026 às 22:16.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-15 09:44:30. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 15/10/2026 às 10:10.
 
 ## WhatsApp, mensagem curta para grupos e status
 
