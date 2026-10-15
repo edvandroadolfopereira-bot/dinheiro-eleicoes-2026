@@ -15,12 +15,12 @@ Somei tudo que entrou nas campanhas de cada unidade da federação: recurso do p
 
 As parcelas por origem fecham com o total ao centavo, o que foi conferido contra o arquivo original do TSE. Este ranking mede dinheiro de campanha, e não riqueza do estado: unidade com mais candidatos e mais eleitores recebe mais por construção.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-14 09:12:37. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-14 16:19:51. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 14/10/2026 às 09:54.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 14/10/2026 às 22:16.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -54,7 +54,7 @@ As parcelas por origem fecham com o total ao centavo, o que foi conferido contra
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-14 09:12:37. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 14/10/2026 às 09:54.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-14 16:19:51. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 14/10/2026 às 22:16.
 
 ## WhatsApp, mensagem curta para grupos e status
 
