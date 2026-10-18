@@ -2,20 +2,20 @@
 
 ## Instagram, legenda do post
 
-Se o dinheiro fosse dividido por igual, a curva seria a reta. Ela não é: o Gini é 0,7799.
+Se o dinheiro fosse dividido por igual, a curva seria a reta. Ela não é: o Gini é 0,7825.
 
 Esta é a curva de Lorenz da receita de campanha. No eixo de baixo, os candidatos do que arrecada menos para o que arrecada mais. No eixo da esquerda, o dinheiro acumulado.
 
-A reta seria a divisão perfeitamente igual. A área entre a reta e a curva é a desigualdade, e o índice de Gini a resume em um número: 0,7799.
+A reta seria a divisão perfeitamente igual. A área entre a reta e a curva é a desigualdade, e o índice de Gini a resume em um número: 0,7825.
 
-O 1% que mais arrecada fica com 24,57% do dinheiro, e 862 candidatos concentram metade de tudo.
+O 1% que mais arrecada fica com 25,37% do dinheiro, e 843 candidatos concentram metade de tudo.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-15 15:05:24. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-18 13:45:20. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 15/10/2026 às 15:11.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 18/10/2026 às 14:03.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -34,21 +34,21 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-Se o dinheiro fosse dividido por igual, a curva seria a reta. Ela não é: o Gini é 0,7799.
+Se o dinheiro fosse dividido por igual, a curva seria a reta. Ela não é: o Gini é 0,7825.
 
 Esta é a curva de Lorenz da receita de campanha. No eixo de baixo, os candidatos do que arrecada menos para o que arrecada mais. No eixo da esquerda, o dinheiro acumulado.
 
-A reta seria a divisão perfeitamente igual. A área entre a reta e a curva é a desigualdade, e o índice de Gini a resume em um número: 0,7799.
+A reta seria a divisão perfeitamente igual. A área entre a reta e a curva é a desigualdade, e o índice de Gini a resume em um número: 0,7825.
 
-O 1% que mais arrecada fica com 24,57% do dinheiro, e 862 candidatos concentram metade de tudo.
+O 1% que mais arrecada fica com 25,37% do dinheiro, e 843 candidatos concentram metade de tudo.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-15 15:05:24. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 15/10/2026 às 15:11.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-18 13:45:20. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 18/10/2026 às 14:03.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-Se o dinheiro fosse dividido por igual, a curva seria a reta. Ela não é: o Gini é 0,7799.
+Se o dinheiro fosse dividido por igual, a curva seria a reta. Ela não é: o Gini é 0,7825.
 A curva que mostra a concentração do dinheiro eleitoral. Veja onde ela afunda.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
