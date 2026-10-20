@@ -14,12 +14,12 @@ acima de 1 milhao: 399 fornecedores, R$ 1,27 bi.
 
 Pessoas físicas receberam R$ 1,41 bi e empresas R$ 3,25 bi.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-20 08:37:00. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-20 09:06:41. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 20/10/2026 às 08:45.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 20/10/2026 às 09:12.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -52,7 +52,7 @@ Pessoas físicas receberam R$ 1,41 bi e empresas R$ 3,25 bi.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-20 08:37:00. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 20/10/2026 às 08:45.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-20 09:06:41. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 20/10/2026 às 09:12.
 
 ## WhatsApp, mensagem curta para grupos e status
 
