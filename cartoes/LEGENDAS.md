@@ -1,33 +1,33 @@
 # Legendas prontas para a postagem
 
-Extracao do TSE: 2026-10-20 09:06:41 | Publicado em: 20/10/2026 as 09:12 | Autoria: EDVANDRO ADOLFO PEREIRA
+Extracao do TSE: 2026-10-21 09:08:28 | Publicado em: 21/10/2026 as 09:21 | Autoria: EDVANDRO ADOLFO PEREIRA
 
 ## Legenda do carrossel
 
 O DINHEIRO DAS ELEICOES 2026 E QUEM SAO OS SEUS BENEFICIARIOS
 Pela visao de um perito judicial contabil
 
-De cada R$ 100 que entraram nas campanhas deste ano, R$ 81,89 sairam do
+De cada R$ 100 que entraram nas campanhas deste ano, R$ 81,83 sairam do
 bolso do contribuinte. Veja quem recebe.
 
-As campanhas declararam R$ 7.519.734.350,43 de receita ate 2026-10-20.
-Desse total, R$ 6,16 bi (81,89%) e dinheiro publico: FEFC
-R$ 5,49 bi (73,05%) mais Fundo Partidario R$ 664,8 mi
-(8,84%).
+As campanhas declararam R$ 7.532.274.304,72 de receita ate 2026-10-21.
+Desse total, R$ 6,16 bi (81,83%) e dinheiro publico: FEFC
+R$ 5,49 bi (72,95%) mais Fundo Partidario R$ 669,1 mi
+(8,88%).
 
-Doacao de pessoa fisica: R$ 798,9 mi (10,62%).
-Recurso do proprio candidato: R$ 176,0 mi (2,34%).
+Doacao de pessoa fisica: R$ 802,5 mi (10,65%).
+Recurso do proprio candidato: R$ 177,8 mi (2,36%).
 
-Os 100 maiores fornecedores ficam com R$ 849,3 mi, ou
-16,16% de tudo que foi contratado.
+Os 100 maiores fornecedores ficam com R$ 856,5 mi, ou
+16,19% de tudo que foi contratado.
 
 Fonte: Tribunal Superior Eleitoral, dados abertos das Eleicoes Gerais de 2026, extracao de
-2026-10-20 09:06:41. A prestacao de contas e parcial e muda todo dia.
+2026-10-21 09:08:28. A prestacao de contas e parcial e muda todo dia.
 
 Dados completos para baixar: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
 Levantamento, apuracao e organizacao: EDVANDRO ADOLFO PEREIRA, perito judicial contabil.
-Publicado em 20/10/2026 as 09:12. @edvandroadolfo | @gruponomos
+Publicado em 21/10/2026 as 09:21. @edvandroadolfo | @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE
 #jornalismodedados #fiscalizacao #democracia #dinheiropublico

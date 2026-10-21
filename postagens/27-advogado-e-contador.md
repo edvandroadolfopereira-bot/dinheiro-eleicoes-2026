@@ -2,18 +2,18 @@
 
 ## Instagram, legenda do post
 
-As campanhas já pagaram R$ 156,3 mi em serviços advocatícios e R$ 90,7 mi em serviços contábeis, com dinheiro público.
+As campanhas já pagaram R$ 159,3 mi em serviços advocatícios e R$ 91,2 mi em serviços contábeis, com dinheiro público.
 
 Prestação de contas eleitoral é obrigação legal, e exige profissional habilitado. Por isso advocacia e contabilidade aparecem entre as maiores despesas pagas com os fundos públicos.
 
 Como perito judicial contábil, digo o óbvio que costuma faltar: conta mal prestada custa mais caro que honorário, porque gera glosa, devolução ao erário e, em caso grave, inelegibilidade.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-20 09:06:41. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-21 09:08:28. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 20/10/2026 às 09:12.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/10/2026 às 09:22.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -32,7 +32,7 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-As campanhas já pagaram R$ 156,3 mi em serviços advocatícios e R$ 90,7 mi em serviços contábeis, com dinheiro público.
+As campanhas já pagaram R$ 159,3 mi em serviços advocatícios e R$ 91,2 mi em serviços contábeis, com dinheiro público.
 
 Prestação de contas eleitoral é obrigação legal, e exige profissional habilitado. Por isso advocacia e contabilidade aparecem entre as maiores despesas pagas com os fundos públicos.
 
@@ -40,11 +40,11 @@ Como perito judicial contábil, digo o óbvio que costuma faltar: conta mal pres
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-20 09:06:41. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 20/10/2026 às 09:12.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-21 09:08:28. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/10/2026 às 09:22.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-As campanhas já pagaram R$ 156,3 mi em serviços advocatícios e R$ 90,7 mi em serviços contábeis, com dinheiro público.
-Serviços advocatícios: R$ 156,3 mi. Contábeis: R$ 90,7 mi.
+As campanhas já pagaram R$ 159,3 mi em serviços advocatícios e R$ 91,2 mi em serviços contábeis, com dinheiro público.
+Serviços advocatícios: R$ 159,3 mi. Contábeis: R$ 91,2 mi.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
