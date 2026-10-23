@@ -2,24 +2,24 @@
 
 ## Instagram, legenda do post
 
-O cargo com dinheiro mais concentrado é deputado distrital, com Gini de 0,7097.
+O cargo com dinheiro mais concentrado é deputado distrital, com Gini de 0,7114.
 
 Calculei o índice de Gini separadamente dentro de cada cargo, entre os candidatos que já declararam receita.
 
-Deputado Distrital: Gini 0,7097, com 55,93% do dinheiro nos 10% do topo.
-Deputado Federal: Gini 0,7076, com 51,24% do dinheiro nos 10% do topo.
-Deputado Estadual: Gini 0,6679, com 46,5% do dinheiro nos 10% do topo.
-Governador: Gini 0,5901, com 34,1% do dinheiro nos 10% do topo.
-Senador: Gini 0,5603, com 27,87% do dinheiro nos 10% do topo.
+Deputado Distrital: Gini 0,7114, com 56,3% do dinheiro nos 10% do topo.
+Deputado Federal: Gini 0,7079, com 51,27% do dinheiro nos 10% do topo.
+Deputado Estadual: Gini 0,668, com 46,49% do dinheiro nos 10% do topo.
+Governador: Gini 0,5886, com 33,66% do dinheiro nos 10% do topo.
+Senador: Gini 0,5599, com 27,83% do dinheiro nos 10% do topo.
 
 Quanto mais perto de um, mais o dinheiro daquela disputa está em poucas mãos.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-21 21:05:51. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-23 08:25:44. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/10/2026 às 21:13.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 23/10/2026 às 09:24.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -38,25 +38,25 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-O cargo com dinheiro mais concentrado é deputado distrital, com Gini de 0,7097.
+O cargo com dinheiro mais concentrado é deputado distrital, com Gini de 0,7114.
 
 Calculei o índice de Gini separadamente dentro de cada cargo, entre os candidatos que já declararam receita.
 
-Deputado Distrital: Gini 0,7097, com 55,93% do dinheiro nos 10% do topo.
-Deputado Federal: Gini 0,7076, com 51,24% do dinheiro nos 10% do topo.
-Deputado Estadual: Gini 0,6679, com 46,5% do dinheiro nos 10% do topo.
-Governador: Gini 0,5901, com 34,1% do dinheiro nos 10% do topo.
-Senador: Gini 0,5603, com 27,87% do dinheiro nos 10% do topo.
+Deputado Distrital: Gini 0,7114, com 56,3% do dinheiro nos 10% do topo.
+Deputado Federal: Gini 0,7079, com 51,27% do dinheiro nos 10% do topo.
+Deputado Estadual: Gini 0,668, com 46,49% do dinheiro nos 10% do topo.
+Governador: Gini 0,5886, com 33,66% do dinheiro nos 10% do topo.
+Senador: Gini 0,5599, com 27,83% do dinheiro nos 10% do topo.
 
 Quanto mais perto de um, mais o dinheiro daquela disputa está em poucas mãos.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-21 21:05:51. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 21/10/2026 às 21:13.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-23 08:25:44. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 23/10/2026 às 09:24.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-O cargo com dinheiro mais concentrado é deputado distrital, com Gini de 0,7097.
+O cargo com dinheiro mais concentrado é deputado distrital, com Gini de 0,7114.
 Veja em qual cargo o dinheiro de campanha é mais concentrado.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
