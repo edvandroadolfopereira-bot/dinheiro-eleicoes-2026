@@ -10,17 +10,17 @@ AC: 8,83%.
 RN: 8,21%.
 RR: 8,01%.
 RO: 7,17%.
-AM: 7,06%.
 AP: 6,95%.
+RJ: 6,23%.
 
 No topo aparecem as unidades de menor população, onde o rateio por estado pesa mais sobre um orçamento menor. Continua sendo comparação de grandeza, e não transferência entre uma coisa e outra.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-23 13:22:47. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-23 16:06:34. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 23/10/2026 às 14:14.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 23/10/2026 às 16:13.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -47,14 +47,14 @@ AC: 8,83%.
 RN: 8,21%.
 RR: 8,01%.
 RO: 7,17%.
-AM: 7,06%.
 AP: 6,95%.
+RJ: 6,23%.
 
 No topo aparecem as unidades de menor população, onde o rateio por estado pesa mais sobre um orçamento menor. Continua sendo comparação de grandeza, e não transferência entre uma coisa e outra.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-23 13:22:47. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 23/10/2026 às 14:14.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-23 16:06:34. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 23/10/2026 às 16:13.
 
 ## WhatsApp, mensagem curta para grupos e status
 
