@@ -7,20 +7,20 @@ Em PSOL, 92,79% de toda a receita de campanha é dinheiro público.
 Somei, sigla por sigla, quanto da receita de campanha dos candidatos vem do FEFC e do Fundo Partidário.
 
 PSOL: 92,79% de R$ 135,9 mi.
-SOLIDARIEDADE: 92,68% de R$ 92,3 mi.
-PDT: 92,02% de R$ 233,1 mi.
-UNIÃO: 91,40% de R$ 709,5 mi.
-CIDADANIA: 90,88% de R$ 39,3 mi.
-PP: 89,98% de R$ 578,8 mi.
+SOLIDARIEDADE: 92,67% de R$ 92,4 mi.
+PDT: 91,98% de R$ 233,2 mi.
+UNIÃO: 91,35% de R$ 710,8 mi.
+CIDADANIA: 90,77% de R$ 39,4 mi.
+PP: 89,72% de R$ 580,6 mi.
 
 O recorte considera apenas siglas com mais de R$ 5 milhões declarados, para não comparar partido grande com candidatura isolada.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-24 03:10:26. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-24 09:07:41. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/10/2026 às 03:21.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/10/2026 às 09:18.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -44,17 +44,17 @@ Em PSOL, 92,79% de toda a receita de campanha é dinheiro público.
 Somei, sigla por sigla, quanto da receita de campanha dos candidatos vem do FEFC e do Fundo Partidário.
 
 PSOL: 92,79% de R$ 135,9 mi.
-SOLIDARIEDADE: 92,68% de R$ 92,3 mi.
-PDT: 92,02% de R$ 233,1 mi.
-UNIÃO: 91,40% de R$ 709,5 mi.
-CIDADANIA: 90,88% de R$ 39,3 mi.
-PP: 89,98% de R$ 578,8 mi.
+SOLIDARIEDADE: 92,67% de R$ 92,4 mi.
+PDT: 91,98% de R$ 233,2 mi.
+UNIÃO: 91,35% de R$ 710,8 mi.
+CIDADANIA: 90,77% de R$ 39,4 mi.
+PP: 89,72% de R$ 580,6 mi.
 
 O recorte considera apenas siglas com mais de R$ 5 milhões declarados, para não comparar partido grande com candidatura isolada.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-24 03:10:26. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/10/2026 às 03:21.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-24 09:07:41. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/10/2026 às 09:18.
 
 ## WhatsApp, mensagem curta para grupos e status
 

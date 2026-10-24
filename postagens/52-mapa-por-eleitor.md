@@ -9,17 +9,17 @@ O mesmo mapa, agora dividido pelo eleitorado apto de cada estado, que é quem de
 RR: R$ 246,31 por eleitor.
 AC: R$ 209,25 por eleitor.
 AP: R$ 188,37 por eleitor.
-TO: R$ 122,90 por eleitor.
+TO: R$ 122,91 por eleitor.
 RO: R$ 90,78 por eleitor.
 
-A média nacional é R$ 39,30. No topo aparecem as unidades de menor eleitorado, porque o rateio dos fundos não segue o número de eleitores.
+A média nacional é R$ 39,31. No topo aparecem as unidades de menor eleitorado, porque o rateio dos fundos não segue o número de eleitores.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-24 03:10:26. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-24 09:07:41. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/10/2026 às 03:21.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/10/2026 às 09:18.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -45,14 +45,14 @@ O mesmo mapa, agora dividido pelo eleitorado apto de cada estado, que é quem de
 RR: R$ 246,31 por eleitor.
 AC: R$ 209,25 por eleitor.
 AP: R$ 188,37 por eleitor.
-TO: R$ 122,90 por eleitor.
+TO: R$ 122,91 por eleitor.
 RO: R$ 90,78 por eleitor.
 
-A média nacional é R$ 39,30. No topo aparecem as unidades de menor eleitorado, porque o rateio dos fundos não segue o número de eleitores.
+A média nacional é R$ 39,31. No topo aparecem as unidades de menor eleitorado, porque o rateio dos fundos não segue o número de eleitores.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-24 03:10:26. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/10/2026 às 03:21.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-24 09:07:41. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/10/2026 às 09:18.
 
 ## WhatsApp, mensagem curta para grupos e status
 
