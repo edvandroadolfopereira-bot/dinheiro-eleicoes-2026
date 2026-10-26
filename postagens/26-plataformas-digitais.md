@@ -2,20 +2,20 @@
 
 ## Instagram, legenda do post
 
-Impulsionamento de conteúdo consumiu R$ 320,3 mi de dinheiro público de campanha.
+Impulsionamento de conteúdo consumiu R$ 327,1 mi de dinheiro público de campanha.
 
-O maior fornecedor das campanhas de 2026 é Facebook Servicos Online Do Brasil Ltda., com R$ 312,1 mi contratados por 6.282 candidatos.
+O maior fornecedor das campanhas de 2026 é Facebook Servicos Online Do Brasil Ltda., com R$ 321,0 mi contratados por 6.311 candidatos.
 
-Na classificação de despesa do próprio TSE, impulsionamento de conteúdo soma R$ 320,3 mi pagos com os dois fundos públicos.
+Na classificação de despesa do próprio TSE, impulsionamento de conteúdo soma R$ 327,1 mi pagos com os dois fundos públicos.
 
 É dinheiro do Orçamento da União virando alcance em rede social.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-24 17:05:26. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-26 08:12:20. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/10/2026 às 17:11.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 26/10/2026 às 08:38.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -34,21 +34,21 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-Impulsionamento de conteúdo consumiu R$ 320,3 mi de dinheiro público de campanha.
+Impulsionamento de conteúdo consumiu R$ 327,1 mi de dinheiro público de campanha.
 
-O maior fornecedor das campanhas de 2026 é Facebook Servicos Online Do Brasil Ltda., com R$ 312,1 mi contratados por 6.282 candidatos.
+O maior fornecedor das campanhas de 2026 é Facebook Servicos Online Do Brasil Ltda., com R$ 321,0 mi contratados por 6.311 candidatos.
 
-Na classificação de despesa do próprio TSE, impulsionamento de conteúdo soma R$ 320,3 mi pagos com os dois fundos públicos.
+Na classificação de despesa do próprio TSE, impulsionamento de conteúdo soma R$ 327,1 mi pagos com os dois fundos públicos.
 
 É dinheiro do Orçamento da União virando alcance em rede social.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-24 17:05:26. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/10/2026 às 17:11.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-26 08:12:20. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 26/10/2026 às 08:38.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-Impulsionamento de conteúdo consumiu R$ 320,3 mi de dinheiro público de campanha.
-R$ 320,3 mi de dinheiro público foram para impulsionamento de conteúdo.
+Impulsionamento de conteúdo consumiu R$ 327,1 mi de dinheiro público de campanha.
+R$ 327,1 mi de dinheiro público foram para impulsionamento de conteúdo.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
