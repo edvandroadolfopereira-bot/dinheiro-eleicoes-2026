@@ -2,24 +2,24 @@
 
 ## Instagram, legenda do post
 
-346 candidaturas no país se financiam apenas com dinheiro do próprio candidato.
+340 candidaturas no país se financiam apenas com dinheiro do próprio candidato.
 
-Somando o que declararam, esse grupo movimenta R$ 5,5 mi, o que é pouco diante do total, mas diz muito sobre quem entra na disputa sem estrutura partidária.
+Somando o que declararam, esse grupo movimenta R$ 5,6 mi, o que é pouco diante do total, mas diz muito sobre quem entra na disputa sem estrutura partidária.
 
 Os estados com mais candidaturas nesse perfil:
-RJ: 44 candidaturas.
 SP: 44 candidaturas.
+RJ: 43 candidaturas.
 MG: 33 candidaturas.
 GO: 24 candidaturas.
-RO: 19 candidaturas.
-PR: 18 candidaturas.
+RO: 18 candidaturas.
+DF: 17 candidaturas.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-26 21:07:07. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-27 09:36:21. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 26/10/2026 às 21:27.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/10/2026 às 09:49.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -38,25 +38,25 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-346 candidaturas no país se financiam apenas com dinheiro do próprio candidato.
+340 candidaturas no país se financiam apenas com dinheiro do próprio candidato.
 
-Somando o que declararam, esse grupo movimenta R$ 5,5 mi, o que é pouco diante do total, mas diz muito sobre quem entra na disputa sem estrutura partidária.
+Somando o que declararam, esse grupo movimenta R$ 5,6 mi, o que é pouco diante do total, mas diz muito sobre quem entra na disputa sem estrutura partidária.
 
 Os estados com mais candidaturas nesse perfil:
-RJ: 44 candidaturas.
 SP: 44 candidaturas.
+RJ: 43 candidaturas.
 MG: 33 candidaturas.
 GO: 24 candidaturas.
-RO: 19 candidaturas.
-PR: 18 candidaturas.
+RO: 18 candidaturas.
+DF: 17 candidaturas.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-26 21:07:07. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 26/10/2026 às 21:27.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-27 09:36:21. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/10/2026 às 09:49.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-346 candidaturas no país se financiam apenas com dinheiro do próprio candidato.
+340 candidaturas no país se financiam apenas com dinheiro do próprio candidato.
 Veja onde mais gente banca a própria campanha, sem fundo e sem doação.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)

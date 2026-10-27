@@ -2,25 +2,25 @@
 
 ## Instagram, legenda do post
 
-Em PSOL, 92,77% de toda a receita de campanha é dinheiro público.
+Em PSOL, 92,76% de toda a receita de campanha é dinheiro público.
 
 Somei, sigla por sigla, quanto da receita de campanha dos candidatos vem do FEFC e do Fundo Partidário.
 
-PSOL: 92,77% de R$ 136,0 mi.
-SOLIDARIEDADE: 92,67% de R$ 92,4 mi.
-PDT: 91,95% de R$ 233,3 mi.
-UNIÃO: 91,30% de R$ 711,5 mi.
-CIDADANIA: 90,69% de R$ 39,6 mi.
-PP: 89,69% de R$ 580,8 mi.
+PSOL: 92,76% de R$ 136,1 mi.
+SOLIDARIEDADE: 92,64% de R$ 92,4 mi.
+PDT: 91,94% de R$ 233,5 mi.
+UNIÃO: 91,21% de R$ 712,3 mi.
+CIDADANIA: 90,68% de R$ 39,6 mi.
+PP: 89,65% de R$ 581,1 mi.
 
 O recorte considera apenas siglas com mais de R$ 5 milhões declarados, para não comparar partido grande com candidatura isolada.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-26 21:07:07. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-27 09:36:21. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 26/10/2026 às 21:27.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/10/2026 às 09:49.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -39,26 +39,26 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-Em PSOL, 92,77% de toda a receita de campanha é dinheiro público.
+Em PSOL, 92,76% de toda a receita de campanha é dinheiro público.
 
 Somei, sigla por sigla, quanto da receita de campanha dos candidatos vem do FEFC e do Fundo Partidário.
 
-PSOL: 92,77% de R$ 136,0 mi.
-SOLIDARIEDADE: 92,67% de R$ 92,4 mi.
-PDT: 91,95% de R$ 233,3 mi.
-UNIÃO: 91,30% de R$ 711,5 mi.
-CIDADANIA: 90,69% de R$ 39,6 mi.
-PP: 89,69% de R$ 580,8 mi.
+PSOL: 92,76% de R$ 136,1 mi.
+SOLIDARIEDADE: 92,64% de R$ 92,4 mi.
+PDT: 91,94% de R$ 233,5 mi.
+UNIÃO: 91,21% de R$ 712,3 mi.
+CIDADANIA: 90,68% de R$ 39,6 mi.
+PP: 89,65% de R$ 581,1 mi.
 
 O recorte considera apenas siglas com mais de R$ 5 milhões declarados, para não comparar partido grande com candidatura isolada.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-26 21:07:07. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 26/10/2026 às 21:27.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-27 09:36:21. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/10/2026 às 09:49.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-Em PSOL, 92,77% de toda a receita de campanha é dinheiro público.
+Em PSOL, 92,76% de toda a receita de campanha é dinheiro público.
 Veja quanto da receita de cada partido é dinheiro público.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
