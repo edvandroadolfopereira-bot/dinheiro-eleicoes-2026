@@ -7,19 +7,19 @@ Em RR, cada eleitor apto carrega R$ 246,53 de verba pública de campanha.
 O mesmo mapa, agora dividido pelo eleitorado apto de cada estado, que é quem de fato vota.
 
 RR: R$ 246,53 por eleitor.
-AC: R$ 209,49 por eleitor.
-AP: R$ 188,42 por eleitor.
-TO: R$ 122,97 por eleitor.
+AC: R$ 209,54 por eleitor.
+AP: R$ 188,44 por eleitor.
+TO: R$ 122,98 por eleitor.
 RO: R$ 90,78 por eleitor.
 
-A média nacional é R$ 39,34. No topo aparecem as unidades de menor eleitorado, porque o rateio dos fundos não segue o número de eleitores.
+A média nacional é R$ 39,36. No topo aparecem as unidades de menor eleitorado, porque o rateio dos fundos não segue o número de eleitores.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-28 15:06:08. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-29 09:10:58. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 28/10/2026 às 15:14.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 29/10/2026 às 09:24.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -43,16 +43,16 @@ Em RR, cada eleitor apto carrega R$ 246,53 de verba pública de campanha.
 O mesmo mapa, agora dividido pelo eleitorado apto de cada estado, que é quem de fato vota.
 
 RR: R$ 246,53 por eleitor.
-AC: R$ 209,49 por eleitor.
-AP: R$ 188,42 por eleitor.
-TO: R$ 122,97 por eleitor.
+AC: R$ 209,54 por eleitor.
+AP: R$ 188,44 por eleitor.
+TO: R$ 122,98 por eleitor.
 RO: R$ 90,78 por eleitor.
 
-A média nacional é R$ 39,34. No topo aparecem as unidades de menor eleitorado, porque o rateio dos fundos não segue o número de eleitores.
+A média nacional é R$ 39,36. No topo aparecem as unidades de menor eleitorado, porque o rateio dos fundos não segue o número de eleitores.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-28 15:06:08. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 28/10/2026 às 15:14.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-10-29 09:10:58. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 29/10/2026 às 09:24.
 
 ## WhatsApp, mensagem curta para grupos e status
 
