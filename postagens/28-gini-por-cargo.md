@@ -7,19 +7,19 @@ O cargo com dinheiro mais concentrado é deputado federal, com Gini de 0,7134.
 Calculei o índice de Gini separadamente dentro de cada cargo, entre os candidatos que já declararam receita.
 
 Deputado Federal: Gini 0,7134, com 52,1% do dinheiro nos 10% do topo.
-Deputado Distrital: Gini 0,7028, com 56,17% do dinheiro nos 10% do topo.
-Deputado Estadual: Gini 0,6732, com 46,88% do dinheiro nos 10% do topo.
-Governador: Gini 0,619, com 35,17% do dinheiro nos 10% do topo.
+Deputado Distrital: Gini 0,7028, com 56,18% do dinheiro nos 10% do topo.
+Deputado Estadual: Gini 0,6733, com 46,9% do dinheiro nos 10% do topo.
+Governador: Gini 0,619, com 35,16% do dinheiro nos 10% do topo.
 Senador: Gini 0,589, com 29,23% do dinheiro nos 10% do topo.
 
 Quanto mais perto de um, mais o dinheiro daquela disputa está em poucas mãos.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-06 18:08:21. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-07 11:41:25. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 06/11/2026 às 18:14.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 07/11/2026 às 12:03.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -43,16 +43,16 @@ O cargo com dinheiro mais concentrado é deputado federal, com Gini de 0,7134.
 Calculei o índice de Gini separadamente dentro de cada cargo, entre os candidatos que já declararam receita.
 
 Deputado Federal: Gini 0,7134, com 52,1% do dinheiro nos 10% do topo.
-Deputado Distrital: Gini 0,7028, com 56,17% do dinheiro nos 10% do topo.
-Deputado Estadual: Gini 0,6732, com 46,88% do dinheiro nos 10% do topo.
-Governador: Gini 0,619, com 35,17% do dinheiro nos 10% do topo.
+Deputado Distrital: Gini 0,7028, com 56,18% do dinheiro nos 10% do topo.
+Deputado Estadual: Gini 0,6733, com 46,9% do dinheiro nos 10% do topo.
+Governador: Gini 0,619, com 35,16% do dinheiro nos 10% do topo.
 Senador: Gini 0,589, com 29,23% do dinheiro nos 10% do topo.
 
 Quanto mais perto de um, mais o dinheiro daquela disputa está em poucas mãos.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-06 18:08:21. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 06/11/2026 às 18:14.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-07 11:41:25. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 07/11/2026 às 12:03.
 
 ## WhatsApp, mensagem curta para grupos e status
 
