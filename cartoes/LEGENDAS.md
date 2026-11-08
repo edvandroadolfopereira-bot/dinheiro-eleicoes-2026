@@ -1,6 +1,6 @@
 # Legendas prontas para a postagem
 
-Extracao do TSE: 2026-11-08 09:11:44 | Publicado em: 08/11/2026 as 09:25 | Autoria: EDVANDRO ADOLFO PEREIRA
+Extracao do TSE: 2026-11-08 09:11:44 | Publicado em: 08/11/2026 as 15:53 | Autoria: EDVANDRO ADOLFO PEREIRA
 
 ## Legenda do carrossel
 
@@ -27,7 +27,7 @@ Fonte: Tribunal Superior Eleitoral, dados abertos das Eleicoes Gerais de 2026, e
 Dados completos para baixar: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
 Levantamento, apuracao e organizacao: EDVANDRO ADOLFO PEREIRA, perito judicial contabil.
-Publicado em 08/11/2026 as 09:25. @edvandroadolfo | @gruponomos
+Publicado em 08/11/2026 as 15:53. @edvandroadolfo | @gruponomos
 
 #eleicoes2026 #transparencia #dadosabertos #contaspublicas #fundoeleitoral #TSE
 #jornalismodedados #fiscalizacao #democracia #dinheiropublico
