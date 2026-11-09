@@ -2,18 +2,18 @@
 
 ## Instagram, legenda do post
 
-O maior fornecedor das eleições de 2026 é Facebook Servicos Online Do Brasil Ltda., com R$ 517,6 mi contratados.
+O maior fornecedor das eleições de 2026 é Facebook Servicos Online Do Brasil Ltda., com R$ 517,8 mi contratados.
 
-Os 100 maiores fornecedores ficam com R$ 1,24 bi, ou 16,64% de tudo que as campanhas contrataram, entre 911.225 fornecedores no país.
+Os 100 maiores fornecedores ficam com R$ 1,24 bi, ou 16,64% de tudo que as campanhas contrataram, entre 911.580 fornecedores no país.
 
-O primeiro colocado atendeu 8.272 candidatos.
+O primeiro colocado atendeu 8.273 candidatos.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-09 03:04:00. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-09 09:14:57. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/11/2026 às 03:09.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/11/2026 às 09:24.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -32,19 +32,19 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-O maior fornecedor das eleições de 2026 é Facebook Servicos Online Do Brasil Ltda., com R$ 517,6 mi contratados.
+O maior fornecedor das eleições de 2026 é Facebook Servicos Online Do Brasil Ltda., com R$ 517,8 mi contratados.
 
-Os 100 maiores fornecedores ficam com R$ 1,24 bi, ou 16,64% de tudo que as campanhas contrataram, entre 911.225 fornecedores no país.
+Os 100 maiores fornecedores ficam com R$ 1,24 bi, ou 16,64% de tudo que as campanhas contrataram, entre 911.580 fornecedores no país.
 
-O primeiro colocado atendeu 8.272 candidatos.
+O primeiro colocado atendeu 8.273 candidatos.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-09 03:04:00. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/11/2026 às 03:09.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-09 09:14:57. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/11/2026 às 09:24.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-O maior fornecedor das eleições de 2026 é Facebook Servicos Online Do Brasil Ltda., com R$ 517,6 mi contratados.
+O maior fornecedor das eleições de 2026 é Facebook Servicos Online Do Brasil Ltda., com R$ 517,8 mi contratados.
 100 fornecedores ficam com 16,64% de tudo que foi contratado.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)

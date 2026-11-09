@@ -6,7 +6,7 @@ O cargo com dinheiro mais concentrado é deputado federal, com Gini de 0,7134.
 
 Calculei o índice de Gini separadamente dentro de cada cargo, entre os candidatos que já declararam receita.
 
-Deputado Federal: Gini 0,7134, com 52,1% do dinheiro nos 10% do topo.
+Deputado Federal: Gini 0,7134, com 52,09% do dinheiro nos 10% do topo.
 Deputado Distrital: Gini 0,7029, com 56,19% do dinheiro nos 10% do topo.
 Deputado Estadual: Gini 0,6733, com 46,9% do dinheiro nos 10% do topo.
 Governador: Gini 0,6187, com 35,15% do dinheiro nos 10% do topo.
@@ -14,12 +14,12 @@ Senador: Gini 0,589, com 29,22% do dinheiro nos 10% do topo.
 
 Quanto mais perto de um, mais o dinheiro daquela disputa está em poucas mãos.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-09 03:04:00. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-09 09:14:57. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/11/2026 às 03:09.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/11/2026 às 09:24.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -42,7 +42,7 @@ O cargo com dinheiro mais concentrado é deputado federal, com Gini de 0,7134.
 
 Calculei o índice de Gini separadamente dentro de cada cargo, entre os candidatos que já declararam receita.
 
-Deputado Federal: Gini 0,7134, com 52,1% do dinheiro nos 10% do topo.
+Deputado Federal: Gini 0,7134, com 52,09% do dinheiro nos 10% do topo.
 Deputado Distrital: Gini 0,7029, com 56,19% do dinheiro nos 10% do topo.
 Deputado Estadual: Gini 0,6733, com 46,9% do dinheiro nos 10% do topo.
 Governador: Gini 0,6187, com 35,15% do dinheiro nos 10% do topo.
@@ -52,7 +52,7 @@ Quanto mais perto de um, mais o dinheiro daquela disputa está em poucas mãos.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-09 03:04:00. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/11/2026 às 03:09.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-09 09:14:57. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/11/2026 às 09:24.
 
 ## WhatsApp, mensagem curta para grupos e status
 

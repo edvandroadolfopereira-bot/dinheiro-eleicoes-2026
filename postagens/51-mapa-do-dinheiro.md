@@ -9,17 +9,17 @@ Pintei o mapa do Brasil pela receita de campanha declarada pelos candidatos de c
 SP: R$ 984,3 mi, 12,34% do total.
 MG: R$ 567,6 mi, 7,11% do total.
 RJ: R$ 520,4 mi, 6,52% do total.
-PR: R$ 373,3 mi, 4,68% do total.
+PR: R$ 373,4 mi, 4,68% do total.
 BA: R$ 367,6 mi, 4,61% do total.
 
 A campanha de presidente e vice não entra neste mapa: ela corre na circunscrição nacional e não pertence a estado nenhum.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-09 03:04:00. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-09 09:14:57. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/11/2026 às 03:09.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/11/2026 às 09:24.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -45,14 +45,14 @@ Pintei o mapa do Brasil pela receita de campanha declarada pelos candidatos de c
 SP: R$ 984,3 mi, 12,34% do total.
 MG: R$ 567,6 mi, 7,11% do total.
 RJ: R$ 520,4 mi, 6,52% do total.
-PR: R$ 373,3 mi, 4,68% do total.
+PR: R$ 373,4 mi, 4,68% do total.
 BA: R$ 367,6 mi, 4,61% do total.
 
 A campanha de presidente e vice não entra neste mapa: ela corre na circunscrição nacional e não pertence a estado nenhum.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-09 03:04:00. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/11/2026 às 03:09.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-09 09:14:57. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 09/11/2026 às 09:24.
 
 ## WhatsApp, mensagem curta para grupos e status
 
