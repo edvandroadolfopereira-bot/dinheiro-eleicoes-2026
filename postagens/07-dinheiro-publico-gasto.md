@@ -12,12 +12,12 @@ Atividades de militância e mobilização de rua: R$ 84,1 mi.
 Despesas com pessoal: R$ 61,7 mi.
 Despesa com Impulsionamento de Conteúdos: R$ 58,8 mi.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-10 22:03:31. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-11 03:04:15. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 10/11/2026 às 23:30.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 11/11/2026 às 03:09.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -48,7 +48,7 @@ Despesa com Impulsionamento de Conteúdos: R$ 58,8 mi.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-10 22:03:31. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 10/11/2026 às 23:30.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-11 03:04:15. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 11/11/2026 às 03:09.
 
 ## WhatsApp, mensagem curta para grupos e status
 
