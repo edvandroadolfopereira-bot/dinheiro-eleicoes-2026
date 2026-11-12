@@ -8,12 +8,12 @@ Esse grupo movimenta R$ 246,5 mi, ou 3,09% do dinheiro de campanha do país.
 
 A maior parte vem de doação de pessoa física. Outras 3.165 candidaturas não declararam receita alguma, e isso não é autofinanciamento: é ausência de declaração, inclusive de vice e suplente, que não prestam conta própria.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-11 15:37:18. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-11 21:11:22. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 11/11/2026 às 16:08.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 11/11/2026 às 21:18.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -40,7 +40,7 @@ A maior parte vem de doação de pessoa física. Outras 3.165 candidaturas não 
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-11 15:37:18. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 11/11/2026 às 16:08.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-11 21:11:22. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 11/11/2026 às 21:18.
 
 ## WhatsApp, mensagem curta para grupos e status
 
