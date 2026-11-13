@@ -14,12 +14,12 @@ BA: R$ 368,1 mi, 4,61% do total.
 
 A campanha de presidente e vice não entra neste mapa: ela corre na circunscrição nacional e não pertence a estado nenhum.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-12 15:35:34. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-12 21:14:52. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 12/11/2026 às 15:49.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 12/11/2026 às 21:24.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -52,7 +52,7 @@ A campanha de presidente e vice não entra neste mapa: ela corre na circunscriç
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-12 15:35:34. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 12/11/2026 às 15:49.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-12 21:14:52. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 12/11/2026 às 21:24.
 
 ## WhatsApp, mensagem curta para grupos e status
 
