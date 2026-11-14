@@ -9,18 +9,18 @@ Somei, sigla por sigla, quanto da receita de campanha dos candidatos vem do FEFC
 CIDADANIA: 92,62% de R$ 45,7 mi.
 PSOL: 91,89% de R$ 139,5 mi.
 SOLIDARIEDADE: 91,32% de R$ 95,9 mi.
-PDT: 90,41% de R$ 242,4 mi.
+PDT: 90,39% de R$ 242,4 mi.
 UNIÃO: 89,92% de R$ 732,9 mi.
-PP: 88,50% de R$ 594,1 mi.
+PP: 88,49% de R$ 594,2 mi.
 
 O recorte considera apenas siglas com mais de R$ 5 milhões declarados, para não comparar partido grande com candidatura isolada.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-12 21:14:52. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-14 13:19:07. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 12/11/2026 às 21:24.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 14/11/2026 às 13:28.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -46,15 +46,15 @@ Somei, sigla por sigla, quanto da receita de campanha dos candidatos vem do FEFC
 CIDADANIA: 92,62% de R$ 45,7 mi.
 PSOL: 91,89% de R$ 139,5 mi.
 SOLIDARIEDADE: 91,32% de R$ 95,9 mi.
-PDT: 90,41% de R$ 242,4 mi.
+PDT: 90,39% de R$ 242,4 mi.
 UNIÃO: 89,92% de R$ 732,9 mi.
-PP: 88,50% de R$ 594,1 mi.
+PP: 88,49% de R$ 594,2 mi.
 
 O recorte considera apenas siglas com mais de R$ 5 milhões declarados, para não comparar partido grande com candidatura isolada.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-12 21:14:52. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 12/11/2026 às 21:24.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-14 13:19:07. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 14/11/2026 às 13:28.
 
 ## WhatsApp, mensagem curta para grupos e status
 

@@ -6,18 +6,18 @@ Publicidade impressa e serviços de terceiros lideram o gasto do Fundo Partidár
 
 Gasto final já pago, sem a transferência entre partido e candidato, que contaria o mesmo real duas vezes.
 
-Publicidade por materiais impressos: R$ 103,0 mi.
-Serviços prestados por terceiros: R$ 88,9 mi.
-Atividades de militância e mobilização de rua: R$ 84,5 mi.
-Despesas com pessoal: R$ 61,8 mi.
+Publicidade por materiais impressos: R$ 103,3 mi.
+Serviços prestados por terceiros: R$ 88,8 mi.
+Atividades de militância e mobilização de rua: R$ 85,0 mi.
+Despesas com pessoal: R$ 62,0 mi.
 Despesa com Impulsionamento de Conteúdos: R$ 58,9 mi.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-12 21:14:52. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-14 13:19:07. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 12/11/2026 às 21:24.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 14/11/2026 às 13:28.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -40,15 +40,15 @@ Publicidade impressa e serviços de terceiros lideram o gasto do Fundo Partidár
 
 Gasto final já pago, sem a transferência entre partido e candidato, que contaria o mesmo real duas vezes.
 
-Publicidade por materiais impressos: R$ 103,0 mi.
-Serviços prestados por terceiros: R$ 88,9 mi.
-Atividades de militância e mobilização de rua: R$ 84,5 mi.
-Despesas com pessoal: R$ 61,8 mi.
+Publicidade por materiais impressos: R$ 103,3 mi.
+Serviços prestados por terceiros: R$ 88,8 mi.
+Atividades de militância e mobilização de rua: R$ 85,0 mi.
+Despesas com pessoal: R$ 62,0 mi.
 Despesa com Impulsionamento de Conteúdos: R$ 58,9 mi.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-12 21:14:52. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 12/11/2026 às 21:24.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-14 13:19:07. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 14/11/2026 às 13:28.
 
 ## WhatsApp, mensagem curta para grupos e status
 
