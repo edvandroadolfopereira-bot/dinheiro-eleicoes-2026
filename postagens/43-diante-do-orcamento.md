@@ -2,24 +2,24 @@
 
 ## Instagram, legenda do post
 
-O dinheiro público de campanha equivale a 4,021% de tudo que a União já liquidou em Saúde neste ano.
+O dinheiro público de campanha equivale a 4,039% de tudo que a União já liquidou em Saúde neste ano.
 
-Peguei a despesa liquidada pela União no exercício de 2026, por função, no Relatório Resumido da Execução Orçamentária publicado pelo Tesouro Nacional, e comparei com os R$ 6,31 bi de dinheiro público que chegaram às campanhas.
+Peguei a despesa liquidada pela União no exercício de 2026, por função, no Relatório Resumido da Execução Orçamentária publicado pelo Tesouro Nacional, e comparei com os R$ 6,33 bi de dinheiro público que chegaram às campanhas.
 
-Saneamento: 2840,169%.
-Habitação: 561,312%.
-Segurança Pública: 69,101%.
-Agricultura: 31,474%.
-Trabalho: 7,318%.
+Saneamento: 2853,008%.
+Habitação: 563,849%.
+Segurança Pública: 69,414%.
+Agricultura: 31,617%.
+Trabalho: 7,351%.
 
 É comparação de grandeza, e não de vasos comunicantes: são dotações distintas, e um real a menos em campanha não vira automaticamente um real a mais em hospital. O que ela mostra é a escala da escolha que a lei fez.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-14 15:41:12. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-16 09:22:49. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 14/11/2026 às 15:56.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 16/11/2026 às 09:36.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -38,25 +38,25 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-O dinheiro público de campanha equivale a 4,021% de tudo que a União já liquidou em Saúde neste ano.
+O dinheiro público de campanha equivale a 4,039% de tudo que a União já liquidou em Saúde neste ano.
 
-Peguei a despesa liquidada pela União no exercício de 2026, por função, no Relatório Resumido da Execução Orçamentária publicado pelo Tesouro Nacional, e comparei com os R$ 6,31 bi de dinheiro público que chegaram às campanhas.
+Peguei a despesa liquidada pela União no exercício de 2026, por função, no Relatório Resumido da Execução Orçamentária publicado pelo Tesouro Nacional, e comparei com os R$ 6,33 bi de dinheiro público que chegaram às campanhas.
 
-Saneamento: 2840,169%.
-Habitação: 561,312%.
-Segurança Pública: 69,101%.
-Agricultura: 31,474%.
-Trabalho: 7,318%.
+Saneamento: 2853,008%.
+Habitação: 563,849%.
+Segurança Pública: 69,414%.
+Agricultura: 31,617%.
+Trabalho: 7,351%.
 
 É comparação de grandeza, e não de vasos comunicantes: são dotações distintas, e um real a menos em campanha não vira automaticamente um real a mais em hospital. O que ela mostra é a escala da escolha que a lei fez.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-14 15:41:12. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 14/11/2026 às 15:56.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-16 09:22:49. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 16/11/2026 às 09:36.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-O dinheiro público de campanha equivale a 4,021% de tudo que a União já liquidou em Saúde neste ano.
+O dinheiro público de campanha equivale a 4,039% de tudo que a União já liquidou em Saúde neste ano.
 Quanto o fundo de campanha representa diante do orçamento da saúde, da educação e da segurança.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)

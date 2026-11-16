@@ -8,19 +8,19 @@ A mesma conta, agora estado por estado, contra a despesa liquidada em saúde pel
 
 AC: 8,87%.
 RN: 8,32%.
-RR: 8,06%.
+RR: 8,07%.
 RO: 7,27%.
 AP: 7,02%.
 RJ: 6,3%.
 
 No topo aparecem as unidades de menor população, onde o rateio por estado pesa mais sobre um orçamento menor. Continua sendo comparação de grandeza, e não transferência entre uma coisa e outra.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-14 15:41:12. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-16 09:22:49. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 14/11/2026 às 15:56.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 16/11/2026 às 09:36.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -45,7 +45,7 @@ A mesma conta, agora estado por estado, contra a despesa liquidada em saúde pel
 
 AC: 8,87%.
 RN: 8,32%.
-RR: 8,06%.
+RR: 8,07%.
 RO: 7,27%.
 AP: 7,02%.
 RJ: 6,3%.
@@ -54,7 +54,7 @@ No topo aparecem as unidades de menor população, onde o rateio por estado pesa
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-14 15:41:12. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 14/11/2026 às 15:56.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-16 09:22:49. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 16/11/2026 às 09:36.
 
 ## WhatsApp, mensagem curta para grupos e status
 
