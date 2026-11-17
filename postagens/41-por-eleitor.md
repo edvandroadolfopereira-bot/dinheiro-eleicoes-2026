@@ -12,12 +12,12 @@ Dividindo a receita declarada por esse eleitorado, dá R$ 51,32 por eleitor, dos
 
 Os estados onde cada voto custa mais caro:
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-17 09:19:36. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-17 15:07:42. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 17/11/2026 às 09:42.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 17/11/2026 às 15:17.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -48,7 +48,7 @@ Os estados onde cada voto custa mais caro:
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-17 09:19:36. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 17/11/2026 às 09:42.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-17 15:07:42. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 17/11/2026 às 15:17.
 
 ## WhatsApp, mensagem curta para grupos e status
 
