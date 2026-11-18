@@ -2,25 +2,25 @@
 
 ## Instagram, legenda do post
 
-BR movimenta R$ 1,11 bi, ou 13,7705% de todo o dinheiro declarado no país.
+BR movimenta R$ 1,11 bi, ou 13,7694% de todo o dinheiro declarado no país.
 
 Somei tudo que entrou nas campanhas de cada unidade da federação: recurso do próprio candidato, fundo eleitoral, Fundo Partidário, doação de pessoa física, financiamento coletivo e repasse de partido e de outros candidatos.
 
 1º BR: R$ 1,11 bi, sendo 72,12% de dinheiro público.
-2º SP: R$ 983,6 mi, sendo 80,22% de dinheiro público.
+2º SP: R$ 983,7 mi, sendo 80,21% de dinheiro público.
 3º MG: R$ 568,2 mi, sendo 73,26% de dinheiro público.
 4º RJ: R$ 520,4 mi, sendo 85,67% de dinheiro público.
-5º PR: R$ 374,8 mi, sendo 76,19% de dinheiro público.
-6º BA: R$ 368,5 mi, sendo 84,68% de dinheiro público.
+5º PR: R$ 375,0 mi, sendo 76,18% de dinheiro público.
+6º BA: R$ 368,5 mi, sendo 84,66% de dinheiro público.
 
 As parcelas por origem fecham com o total ao centavo, o que foi conferido contra o arquivo original do TSE. Este ranking mede dinheiro de campanha, e não riqueza do estado: unidade com mais candidatos e mais eleitores recebe mais por construção.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-17 21:07:41. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-18 09:22:46. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 17/11/2026 às 21:14.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 18/11/2026 às 09:33.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -39,26 +39,26 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-BR movimenta R$ 1,11 bi, ou 13,7705% de todo o dinheiro declarado no país.
+BR movimenta R$ 1,11 bi, ou 13,7694% de todo o dinheiro declarado no país.
 
 Somei tudo que entrou nas campanhas de cada unidade da federação: recurso do próprio candidato, fundo eleitoral, Fundo Partidário, doação de pessoa física, financiamento coletivo e repasse de partido e de outros candidatos.
 
 1º BR: R$ 1,11 bi, sendo 72,12% de dinheiro público.
-2º SP: R$ 983,6 mi, sendo 80,22% de dinheiro público.
+2º SP: R$ 983,7 mi, sendo 80,21% de dinheiro público.
 3º MG: R$ 568,2 mi, sendo 73,26% de dinheiro público.
 4º RJ: R$ 520,4 mi, sendo 85,67% de dinheiro público.
-5º PR: R$ 374,8 mi, sendo 76,19% de dinheiro público.
-6º BA: R$ 368,5 mi, sendo 84,68% de dinheiro público.
+5º PR: R$ 375,0 mi, sendo 76,18% de dinheiro público.
+6º BA: R$ 368,5 mi, sendo 84,66% de dinheiro público.
 
 As parcelas por origem fecham com o total ao centavo, o que foi conferido contra o arquivo original do TSE. Este ranking mede dinheiro de campanha, e não riqueza do estado: unidade com mais candidatos e mais eleitores recebe mais por construção.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-17 21:07:41. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 17/11/2026 às 21:14.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-18 09:22:46. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 18/11/2026 às 09:33.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-BR movimenta R$ 1,11 bi, ou 13,7705% de todo o dinheiro declarado no país.
+BR movimenta R$ 1,11 bi, ou 13,7694% de todo o dinheiro declarado no país.
 O ranking das unidades da federação que mais movimentam dinheiro nestas eleições.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)

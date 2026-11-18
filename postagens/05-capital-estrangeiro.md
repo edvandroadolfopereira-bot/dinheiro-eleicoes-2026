@@ -2,21 +2,21 @@
 
 ## Instagram, legenda do post
 
-R$ 531,9 mi das campanhas de 2026 foram para empresas com sócio no exterior.
+R$ 532,2 mi das campanhas de 2026 foram para empresas com sócio no exterior.
 
 O critério é medido, e não suposto: sócio com país estrangeiro, ou qualificado como domiciliado no exterior, no cadastro do CNPJ na Receita Federal.
 
-Facebook Servicos Online Do Brasil Ltda.: R$ 525,9 mi, sócio em Estados Unidos.
+Facebook Servicos Online Do Brasil Ltda.: R$ 526,2 mi, sócio em Estados Unidos.
 Joyo Tecnologia Brasil Ltda.: R$ 5,9 mi, sócio em Cingapura.
 
 Limite que anda junto: ausência de sócio estrangeiro no cadastro não prova capital nacional, porque grupo estrangeiro que controla por holding brasileira aparece como sócio brasileiro.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-17 21:07:41. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-18 09:22:46. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 17/11/2026 às 21:14.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 18/11/2026 às 09:33.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -35,22 +35,22 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-R$ 531,9 mi das campanhas de 2026 foram para empresas com sócio no exterior.
+R$ 532,2 mi das campanhas de 2026 foram para empresas com sócio no exterior.
 
 O critério é medido, e não suposto: sócio com país estrangeiro, ou qualificado como domiciliado no exterior, no cadastro do CNPJ na Receita Federal.
 
-Facebook Servicos Online Do Brasil Ltda.: R$ 525,9 mi, sócio em Estados Unidos.
+Facebook Servicos Online Do Brasil Ltda.: R$ 526,2 mi, sócio em Estados Unidos.
 Joyo Tecnologia Brasil Ltda.: R$ 5,9 mi, sócio em Cingapura.
 
 Limite que anda junto: ausência de sócio estrangeiro no cadastro não prova capital nacional, porque grupo estrangeiro que controla por holding brasileira aparece como sócio brasileiro.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-17 21:07:41. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 17/11/2026 às 21:14.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-18 09:22:46. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 18/11/2026 às 09:33.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-R$ 531,9 mi das campanhas de 2026 foram para empresas com sócio no exterior.
-R$ 531,9 mi de dinheiro de campanha para empresa com sócio no exterior.
+R$ 532,2 mi das campanhas de 2026 foram para empresas com sócio no exterior.
+R$ 532,2 mi de dinheiro de campanha para empresa com sócio no exterior.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)

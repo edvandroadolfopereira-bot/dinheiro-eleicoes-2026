@@ -4,18 +4,18 @@
 
 R$ 8,08 bi já entraram nas campanhas de 2026. E 78,39% disso é dinheiro público.
 
-As campanhas declararam R$ 8.080.220.534,54 de receita, vindos de 21.073 candidaturas.
+As campanhas declararam R$ 8.080.889.648,03 de receita, vindos de 21.073 candidaturas.
 
 Desse total, R$ 5,58 bi são do Fundo Especial de Financiamento de Campanha e R$ 753,4 mi do Fundo Partidário: os dois saem do Orçamento da União.
 
-Doação de pessoa física responde por 12,58% e o dinheiro do próprio candidato, por 2,65%.
+Doação de pessoa física responde por 12,59% e o dinheiro do próprio candidato, por 2,66%.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-17 21:07:41. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-18 09:22:46. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 17/11/2026 às 21:14.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 18/11/2026 às 09:33.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -36,15 +36,15 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 R$ 8,08 bi já entraram nas campanhas de 2026. E 78,39% disso é dinheiro público.
 
-As campanhas declararam R$ 8.080.220.534,54 de receita, vindos de 21.073 candidaturas.
+As campanhas declararam R$ 8.080.889.648,03 de receita, vindos de 21.073 candidaturas.
 
 Desse total, R$ 5,58 bi são do Fundo Especial de Financiamento de Campanha e R$ 753,4 mi do Fundo Partidário: os dois saem do Orçamento da União.
 
-Doação de pessoa física responde por 12,58% e o dinheiro do próprio candidato, por 2,65%.
+Doação de pessoa física responde por 12,59% e o dinheiro do próprio candidato, por 2,66%.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-17 21:07:41. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 17/11/2026 às 21:14.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-18 09:22:46. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 18/11/2026 às 09:33.
 
 ## WhatsApp, mensagem curta para grupos e status
 
