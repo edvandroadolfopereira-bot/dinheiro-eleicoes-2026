@@ -2,24 +2,24 @@
 
 ## Instagram, legenda do post
 
-Metade dos fornecedores de campanha recebeu até R$ 1.500,00. A média é R$ 7.274,09.
+Metade dos fornecedores de campanha recebeu até R$ 1.500,00. A média é R$ 7.272,71.
 
 Distribuí os fornecedores por faixa de valor recebido. A diferença entre a mediana e a média é a marca aritmética da concentração: poucos gigantes puxam a média para cima enquanto a maioria recebe pouco.
 
-ate 1 mil: 273.692 fornecedores, R$ 157,9 mi.
-de 1 mil a 10 mil: 584.711 fornecedores, R$ 1,45 bi.
-de 10 mil a 100 mil: 54.565 fornecedores, R$ 1,25 bi.
+ate 1 mil: 274.004 fornecedores, R$ 158,1 mi.
+de 1 mil a 10 mil: 584.856 fornecedores, R$ 1,45 bi.
+de 10 mil a 100 mil: 54.591 fornecedores, R$ 1,25 bi.
 de 100 mil a 1 milhao: 6.560 fornecedores, R$ 1,77 bi.
-acima de 1 milhao: 594 fornecedores, R$ 2,07 bi.
+acima de 1 milhao: 596 fornecedores, R$ 2,07 bi.
 
 Pessoas físicas receberam R$ 2,04 bi e empresas R$ 4,65 bi.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-20 03:11:29. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-20 09:07:28. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 20/11/2026 às 03:19.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 20/11/2026 às 09:13.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -38,25 +38,25 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-Metade dos fornecedores de campanha recebeu até R$ 1.500,00. A média é R$ 7.274,09.
+Metade dos fornecedores de campanha recebeu até R$ 1.500,00. A média é R$ 7.272,71.
 
 Distribuí os fornecedores por faixa de valor recebido. A diferença entre a mediana e a média é a marca aritmética da concentração: poucos gigantes puxam a média para cima enquanto a maioria recebe pouco.
 
-ate 1 mil: 273.692 fornecedores, R$ 157,9 mi.
-de 1 mil a 10 mil: 584.711 fornecedores, R$ 1,45 bi.
-de 10 mil a 100 mil: 54.565 fornecedores, R$ 1,25 bi.
+ate 1 mil: 274.004 fornecedores, R$ 158,1 mi.
+de 1 mil a 10 mil: 584.856 fornecedores, R$ 1,45 bi.
+de 10 mil a 100 mil: 54.591 fornecedores, R$ 1,25 bi.
 de 100 mil a 1 milhao: 6.560 fornecedores, R$ 1,77 bi.
-acima de 1 milhao: 594 fornecedores, R$ 2,07 bi.
+acima de 1 milhao: 596 fornecedores, R$ 2,07 bi.
 
 Pessoas físicas receberam R$ 2,04 bi e empresas R$ 4,65 bi.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-20 03:11:29. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 20/11/2026 às 03:19.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-20 09:07:28. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 20/11/2026 às 09:13.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-Metade dos fornecedores de campanha recebeu até R$ 1.500,00. A média é R$ 7.274,09.
+Metade dos fornecedores de campanha recebeu até R$ 1.500,00. A média é R$ 7.272,71.
 Metade dos fornecedores de campanha recebeu muito pouco. Veja a distribuição.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
