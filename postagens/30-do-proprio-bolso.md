@@ -2,7 +2,7 @@
 
 ## Instagram, legenda do post
 
-288 candidaturas no país se financiam apenas com dinheiro do próprio candidato.
+289 candidaturas no país se financiam apenas com dinheiro do próprio candidato.
 
 Somando o que declararam, esse grupo movimenta R$ 6,0 mi, o que é pouco diante do total, mas diz muito sobre quem entra na disputa sem estrutura partidária.
 
@@ -11,15 +11,15 @@ RJ: 39 candidaturas.
 SP: 38 candidaturas.
 MG: 25 candidaturas.
 RO: 17 candidaturas.
-GO: 15 candidaturas.
+GO: 16 candidaturas.
 PA: 14 candidaturas.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-24 22:06:03. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-25 09:33:16. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/11/2026 às 22:11.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 25/11/2026 às 10:05.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -38,7 +38,7 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-288 candidaturas no país se financiam apenas com dinheiro do próprio candidato.
+289 candidaturas no país se financiam apenas com dinheiro do próprio candidato.
 
 Somando o que declararam, esse grupo movimenta R$ 6,0 mi, o que é pouco diante do total, mas diz muito sobre quem entra na disputa sem estrutura partidária.
 
@@ -47,16 +47,16 @@ RJ: 39 candidaturas.
 SP: 38 candidaturas.
 MG: 25 candidaturas.
 RO: 17 candidaturas.
-GO: 15 candidaturas.
+GO: 16 candidaturas.
 PA: 14 candidaturas.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-24 22:06:03. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 24/11/2026 às 22:11.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-25 09:33:16. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 25/11/2026 às 10:05.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-288 candidaturas no país se financiam apenas com dinheiro do próprio candidato.
+289 candidaturas no país se financiam apenas com dinheiro do próprio candidato.
 Veja onde mais gente banca a própria campanha, sem fundo e sem doação.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
