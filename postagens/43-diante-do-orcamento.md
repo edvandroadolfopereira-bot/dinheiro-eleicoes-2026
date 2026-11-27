@@ -6,20 +6,20 @@ O dinheiro público de campanha equivale a 4,041% de tudo que a União já liqui
 
 Peguei a despesa liquidada pela União no exercício de 2026, por função, no Relatório Resumido da Execução Orçamentária publicado pelo Tesouro Nacional, e comparei com os R$ 6,34 bi de dinheiro público que chegaram às campanhas.
 
-Saneamento: 2854,16%.
-Habitação: 564,077%.
-Segurança Pública: 69,442%.
-Agricultura: 31,629%.
+Saneamento: 2854,271%.
+Habitação: 564,099%.
+Segurança Pública: 69,444%.
+Agricultura: 31,631%.
 Trabalho: 7,354%.
 
 É comparação de grandeza, e não de vasos comunicantes: são dotações distintas, e um real a menos em campanha não vira automaticamente um real a mais em hospital. O que ela mostra é a escala da escolha que a lei fez.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-27 03:06:08. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-27 09:52:14. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/11/2026 às 03:15.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/11/2026 às 10:13.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -42,17 +42,17 @@ O dinheiro público de campanha equivale a 4,041% de tudo que a União já liqui
 
 Peguei a despesa liquidada pela União no exercício de 2026, por função, no Relatório Resumido da Execução Orçamentária publicado pelo Tesouro Nacional, e comparei com os R$ 6,34 bi de dinheiro público que chegaram às campanhas.
 
-Saneamento: 2854,16%.
-Habitação: 564,077%.
-Segurança Pública: 69,442%.
-Agricultura: 31,629%.
+Saneamento: 2854,271%.
+Habitação: 564,099%.
+Segurança Pública: 69,444%.
+Agricultura: 31,631%.
 Trabalho: 7,354%.
 
 É comparação de grandeza, e não de vasos comunicantes: são dotações distintas, e um real a menos em campanha não vira automaticamente um real a mais em hospital. O que ela mostra é a escala da escolha que a lei fez.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-27 03:06:08. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/11/2026 às 03:15.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-27 09:52:14. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/11/2026 às 10:13.
 
 ## WhatsApp, mensagem curta para grupos e status
 

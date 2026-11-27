@@ -2,24 +2,24 @@
 
 ## Instagram, legenda do post
 
-SP concentra 12,17% de toda a receita declarada no país.
+SP concentra 12,16% de toda a receita declarada no país.
 
 Pintei o mapa do Brasil pela receita de campanha declarada pelos candidatos de cada estado. Quanto mais escuro, mais dinheiro.
 
-SP: R$ 983,8 mi, 12,17% do total.
-MG: R$ 569,0 mi, 7,04% do total.
-RJ: R$ 520,8 mi, 6,44% do total.
+SP: R$ 983,9 mi, 12,16% do total.
+MG: R$ 569,2 mi, 7,04% do total.
+RJ: R$ 520,9 mi, 6,44% do total.
 PR: R$ 375,4 mi, 4,64% do total.
 BA: R$ 370,0 mi, 4,58% do total.
 
 A campanha de presidente e vice não entra neste mapa: ela corre na circunscrição nacional e não pertence a estado nenhum.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-27 03:06:08. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-27 09:52:14. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/11/2026 às 03:15.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/11/2026 às 10:13.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -38,13 +38,13 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-SP concentra 12,17% de toda a receita declarada no país.
+SP concentra 12,16% de toda a receita declarada no país.
 
 Pintei o mapa do Brasil pela receita de campanha declarada pelos candidatos de cada estado. Quanto mais escuro, mais dinheiro.
 
-SP: R$ 983,8 mi, 12,17% do total.
-MG: R$ 569,0 mi, 7,04% do total.
-RJ: R$ 520,8 mi, 6,44% do total.
+SP: R$ 983,9 mi, 12,16% do total.
+MG: R$ 569,2 mi, 7,04% do total.
+RJ: R$ 520,9 mi, 6,44% do total.
 PR: R$ 375,4 mi, 4,64% do total.
 BA: R$ 370,0 mi, 4,58% do total.
 
@@ -52,11 +52,11 @@ A campanha de presidente e vice não entra neste mapa: ela corre na circunscriç
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-27 03:06:08. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/11/2026 às 03:15.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-27 09:52:14. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 27/11/2026 às 10:13.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-SP concentra 12,17% de toda a receita declarada no país.
+SP concentra 12,16% de toda a receita declarada no país.
 O mapa do dinheiro das eleições, estado por estado.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
