@@ -2,20 +2,20 @@
 
 ## Instagram, legenda do post
 
-815 candidatos concentram metade de todo o dinheiro de campanha do país.
+1.056 candidatos concentram metade de todo o dinheiro de campanha do país.
 
-O índice de Gini da receita entre os 17.946 candidatos que já declararam algo é 0,792, numa escala em que zero é divisão igual e um é tudo com um só.
+O índice de Gini da receita entre os 17.904 candidatos que já declararam algo é 0,7646, numa escala em que zero é divisão igual e um é tudo com um só.
 
-O 1% que mais arrecada fica com 27,89% do dinheiro. Os 10% do topo ficam com 66,87%.
+O 1% que mais arrecada fica com 19,05% do dinheiro. Os 10% do topo ficam com 62,42%.
 
 Para comparar: essa desigualdade é maior que a desigualdade da renda entre brasileiros, medida pelo mesmo índice no Censo de 2022.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-28 09:08:59. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-28 10:15:15. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 28/11/2026 às 09:14.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 28/11/2026 às 10:20.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -34,21 +34,21 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-815 candidatos concentram metade de todo o dinheiro de campanha do país.
+1.056 candidatos concentram metade de todo o dinheiro de campanha do país.
 
-O índice de Gini da receita entre os 17.946 candidatos que já declararam algo é 0,792, numa escala em que zero é divisão igual e um é tudo com um só.
+O índice de Gini da receita entre os 17.904 candidatos que já declararam algo é 0,7646, numa escala em que zero é divisão igual e um é tudo com um só.
 
-O 1% que mais arrecada fica com 27,89% do dinheiro. Os 10% do topo ficam com 66,87%.
+O 1% que mais arrecada fica com 19,05% do dinheiro. Os 10% do topo ficam com 62,42%.
 
 Para comparar: essa desigualdade é maior que a desigualdade da renda entre brasileiros, medida pelo mesmo índice no Censo de 2022.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-28 09:08:59. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 28/11/2026 às 09:14.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-28 10:15:15. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 28/11/2026 às 10:20.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-815 candidatos concentram metade de todo o dinheiro de campanha do país.
-Gini do dinheiro eleitoral: 0,792. Maior que o Gini da renda do país.
+1.056 candidatos concentram metade de todo o dinheiro de campanha do país.
+Gini do dinheiro eleitoral: 0,7646. Maior que o Gini da renda do país.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
