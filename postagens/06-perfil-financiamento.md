@@ -2,25 +2,25 @@
 
 ## Instagram, legenda do post
 
-6.521 candidaturas vivem apenas de recurso partidário e fundo público.
+6.528 candidaturas vivem apenas de recurso partidário e fundo público.
 
 Cada candidatura foi classificada pela fonte do dinheiro dela.
 
-Misto: 10.398 candidaturas, R$ 7,15 bi.
-Só recurso partidário e fundo público: 6.521 candidaturas, R$ 905,0 mi.
-Só doação de pessoa física: 522 candidaturas, R$ 24,7 mi.
-Só recurso próprio: 289 candidaturas, R$ 6,0 mi.
-Outras origens: 203 candidaturas, R$ 2,6 mi.
-Sem receita declarada: 3.140 candidaturas, R$ 0,00.
+Misto: 10.405 candidaturas, R$ 7,15 bi.
+Só recurso partidário e fundo público: 6.528 candidaturas, R$ 905,5 mi.
+Só doação de pessoa física: 527 candidaturas, R$ 24,7 mi.
+Só recurso próprio: 287 candidaturas, R$ 4,5 mi.
+Outras origens: 199 candidaturas, R$ 2,6 mi.
+Sem receita declarada: 3.127 candidaturas, R$ 0,00.
 
 Sem receita declarada não é o mesmo que autofinanciado: é quem ainda não declarou nada.
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-28 03:04:10. Prestação de contas parcial, atualizada diariamente pelo TSE.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-28 09:08:59. Prestação de contas parcial, atualizada diariamente pelo TSE.
 
 Painel completo, com o mapa interativo e todos os dados para baixar: LINK NA BIO.
 Ou aponte a câmera para o código no fim da imagem.
 
-Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 28/11/2026 às 03:10.
+Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 28/11/2026 às 09:14.
 @edvandroadolfo  |  @gruponomos
 
 #eleicoes2026 #contaspublicas #periciacontabil #transparencia
@@ -39,26 +39,26 @@ nenhum: por isso a imagem leva o código, e a bio precisa estar com este endere�
 
 ## Facebook, texto do post
 
-6.521 candidaturas vivem apenas de recurso partidário e fundo público.
+6.528 candidaturas vivem apenas de recurso partidário e fundo público.
 
 Cada candidatura foi classificada pela fonte do dinheiro dela.
 
-Misto: 10.398 candidaturas, R$ 7,15 bi.
-Só recurso partidário e fundo público: 6.521 candidaturas, R$ 905,0 mi.
-Só doação de pessoa física: 522 candidaturas, R$ 24,7 mi.
-Só recurso próprio: 289 candidaturas, R$ 6,0 mi.
-Outras origens: 203 candidaturas, R$ 2,6 mi.
-Sem receita declarada: 3.140 candidaturas, R$ 0,00.
+Misto: 10.405 candidaturas, R$ 7,15 bi.
+Só recurso partidário e fundo público: 6.528 candidaturas, R$ 905,5 mi.
+Só doação de pessoa física: 527 candidaturas, R$ 24,7 mi.
+Só recurso próprio: 287 candidaturas, R$ 4,5 mi.
+Outras origens: 199 candidaturas, R$ 2,6 mi.
+Sem receita declarada: 3.127 candidaturas, R$ 0,00.
 
 Sem receita declarada não é o mesmo que autofinanciado: é quem ainda não declarou nada.
 
 Painel interativo, com mapa do Brasil por estado, tabelas e o parecer técnico completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 
-Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-28 03:04:10. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 28/11/2026 às 03:10.
+Fonte: TSE, dados abertos das Eleições Gerais de 2026, extração de 2026-11-28 09:08:59. Prestação de contas parcial, atualizada diariamente pelo TSE. Levantamento e apuração: EDVANDRO ADOLFO PEREIRA, perito judicial contábil. Publicado em 28/11/2026 às 09:14.
 
 ## WhatsApp, mensagem curta para grupos e status
 
-6.521 candidaturas vivem apenas de recurso partidário e fundo público.
+6.528 candidaturas vivem apenas de recurso partidário e fundo público.
 Veja quantos candidatos vivem só de fundo público e quantos pagam do próprio bolso.
 Painel completo: https://edvandroadolfopereira-bot.github.io/dinheiro-eleicoes-2026/
 (EDVANDRO ADOLFO PEREIRA, perito judicial contábil)
